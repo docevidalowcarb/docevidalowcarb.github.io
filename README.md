@@ -1,52 +1,70 @@
-# Kasper
+# Treat
 
-> This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
+Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
 
-## Installation
+![Treat template screenshot](images/_screenshot.png)
 
-    git clone https://github.com/rosario/kasper.git
-    cd kasper
-    gem install jekyll
-    gem install pygments.rb
+Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-## How to use it
+Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
-Build page and start local web server
+## Features
 
-    jekyll serve
+* Contact form
+* Pre-built pages
+* Pre-styled components
+* Blog with pagination
+* Disqus comments for posts
+* Configurable sidebar
+* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* RSS/Atom feed
+* SEO tags
+* Google Analytics
 
-Build page into `_site` folder
+## Setup
 
-    jekyll build
+1. Add your site and author details in `_config.yml`.
+2. Add your Google Analytics, Disqus and MailChimp keys to `_config.yml`.
+3. Add your details to `_data/sidebar.yml`
+4. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
-## Kasper theme includes
+## Develop
 
-* Pagination
-* Rss
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture
-* Disqus comments
+Treat was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
 
-## Screenshots
+Install the dependencies with [Bundler](http://bundler.io/):
 
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
+~~~bash
+$ bundle install
+~~~
 
+Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-## Thanks
+~~~bash
+$ bundle exec jekyll serve
+~~~
 
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
-I've also added few things specific to Jekyll and some minor style changes.
+## Editing
 
-## Copyright & License
+Treat is already optimised for adding, updating and removing recipes, navigation, page content, and sidebar information in CloudCannon.
 
-Copyright (C) 2013 Ghost Foundation - Released under the MIT License.
+### Posts/Recipes
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+* Add, update or remove a post in the *Posts* collection.
+* The recipes page is organised by categories.
+* Change the defaults when new posts are created in `_posts/_defaults.md`.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+### Contact Form
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
+* Sends email to the address listed in company details.
+
+### Navigation
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Navigation* section.
+
+### Footer
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Footer* section.
