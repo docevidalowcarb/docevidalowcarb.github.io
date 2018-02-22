@@ -1,8 +1,8 @@
 - name: Home
   link: /
-- name: About
-  link: /about/
-- name: Recipes
-  link: /recipes/
-- name: Contact
-  link: /contact/
+- name: Low Carb
+  link: /dieta-low-carb/
+- name: Receitas
+  link: /receitas/
+- name: Contato
+  link: /contato/
