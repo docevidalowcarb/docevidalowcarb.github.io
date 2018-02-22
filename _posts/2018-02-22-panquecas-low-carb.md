@@ -30,7 +30,7 @@ recipe:
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
 
-As Panquecas Low Carb s&atilde;o super f&aacute;ceis de fazer, e s&atilde;o uma &oacute;tima op&ccedil;&atilde;o pra lanches da tarde ou almo&ccedil;os leves. Al&eacute;m de ser de r&aacute;pido preparo, as panquecas low carb saciam por longas horas, o que &eacute; maravilhoso para quem tem o h&aacute;bito de ficar beliscando durante as tardes, pois voc&ecirc; nem vai sentir mais essa necessidade.
+As **Panquecas Low Carb** s&atilde;o super f&aacute;ceis de fazer, e s&atilde;o uma &oacute;tima op&ccedil;&atilde;o pra lanches da tarde ou almo&ccedil;os leves. Al&eacute;m de ser de r&aacute;pido preparo, as *panquecas low carb* saciam por longas horas, o que &eacute; maravilhoso para quem tem o h&aacute;bito de ficar beliscando durante as tardes, pois voc&ecirc; nem vai sentir mais essa necessidade.
 
 &nbsp;
 
