@@ -48,22 +48,14 @@ Voc&ecirc; pode fazer essa receita com panquecas pequenas, m&eacute;dias ou gran
 
 ![](/uploads/versions/panqueca-low-carb-grande-sem-farinha---x----1560-877x---.jpg)
 
-Ou ent&atilde;o voc&ecirc; pode fazer no caf&eacute; do tarde para comer com presunto, ou simplesmente com uma manteiguinha por cima.
+Ou ent&atilde;o voc&ecirc; pode fazer no caf&eacute; do tarde para comer com presunto, ou simplesmente com uma manteiguinha por cima que tamb&eacute;m fica uma del&iacute;cia!
+
+![](/uploads/versions/panqueca-low-carb-com-manteiga---x----1560-877x---.jpg)
+
+Espero que voc&ecirc; goste dessa receita low carb, pois eu sempre fa&ccedil;o em casa e todo mundo adora! &lt;3
 
 &nbsp;
 
-Vamos ao passo a passo, mas voc&ecirc; pode conferir a receita integralmente ao final da p&aacute;gina, ok?
-
 &nbsp;
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
-
-Carefully placing them on the tray.
-
-![Cookie](https://source.unsplash.com/RUPPakds28k)
-
-Little Gavin loves them.
-
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
-
-Delicious!
+&nbsp;
