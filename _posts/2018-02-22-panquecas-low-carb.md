@@ -63,7 +63,3 @@ Espero que voc&ecirc; goste dessa receita low carb, pois eu sempre fa&ccedil;o e
 ## Como Fazer Panqueca Low Carb
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
