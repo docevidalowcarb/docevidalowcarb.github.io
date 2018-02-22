@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: Treat Template
+title: Doce Vida Low Carb
 url: "https://docevidalowcarb.github.io"
 baseurl: ""
-google_analytics_key:
+google_analytics_key: "UA-114647994-1"
 newsletter_action: 
 disqus_shortname:
 
@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Doce Vida Low Carb
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
@@ -84,5 +84,5 @@ social_icons:
 
 _options:
   author_image:
-    width: 400
-    height: 400
+    width: 200
+    height: 200
