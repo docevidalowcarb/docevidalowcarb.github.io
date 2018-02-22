@@ -3,7 +3,7 @@ date: 2018-02-22 00:00:00
 title: Panquecas Low Carb
 categories:
   - Panquecas
-featured_image: /uploads/panqueca-low-carb-de-soja.jpg
+featured_image:
 recipe:
   servings: 4 panquecas médias
   prep: 15 minutos
@@ -31,6 +31,8 @@ recipe:
 ---
 
 As Panquecas Low Carb s&atilde;o super f&aacute;ceis de fazer, e s&atilde;o uma &oacute;tima op&ccedil;&atilde;o pra lanches da tarde ou almo&ccedil;os leves. Al&eacute;m de ser de r&aacute;pido preparo, as panquecas low carb saciam por longas horas, o que &eacute; maravilhoso para quem tem o h&aacute;bito de ficar beliscando durante as tardes, pois voc&ecirc; nem vai sentir mais essa necessidade.
+
+![](/uploads/versions/panqueca-low-carb-de-soja-1---x----1560-1045x---.jpg)
 
 ## Como fazer panqueca low carb?
 
