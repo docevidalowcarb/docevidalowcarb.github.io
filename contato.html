@@ -5,8 +5,6 @@ title: Contact
 <p class="editable">Você gostaria de divulgar suas receitas, ou dar sugestões de conteúdo? Entre em contato!</p>
 
 <form method="post" action="/contact-success/">
-		<input type="hidden" name="_to" value="{{ site.data.email }}" />
-		<input type="text" name="_gotcha" style="display: none;">
 
 	<div class="contain">
 		<div class="split">
@@ -38,6 +36,9 @@ title: Contact
 
 	<label for="message">Mensagem</label>
 	<textarea name="message" id="message"></textarea>
+
+	<input type="hidden" name="_to" value="fabiola.analytics@gmail.com" />
+	<input type="text" name="_gotcha" style="display: none;">
 
 	<input type="submit" value="Enviar Mensagem" />
 </form>
