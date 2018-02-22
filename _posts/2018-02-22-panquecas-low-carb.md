@@ -30,7 +30,15 @@ recipe:
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
 
-Theseaare traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
+As Panquecas Low Carb s&atilde;o super f&aacute;ceis de fazer, e s&atilde;o uma &oacute;tima op&ccedil;&atilde;o pra lanches da tarde ou almo&ccedil;os leves. Al&eacute;m de ser de r&aacute;pido preparo, as panquecas low carb saciam por longas horas, o que &eacute; maravilhoso para quem tem o h&aacute;bito de ficar beliscando durante as tardes, pois voc&ecirc; nem vai sentir mais essa necessidade.
+
+## Como fazer panqueca low carb?
+
+Gente, preparar a panqueca low carb &eacute; muito f&aacute;cil mesmo! Voc&ecirc; n&atilde;o precisa ser nenhum chef, ou expert de cozinha para preparar essa deliciosa receitinha.
+
+Vamos ao passo a passo, mas voc&ecirc; pode conferir a receita integralmente ao final da p&aacute;gina, ok?
+
+&nbsp;
 
 ![Cookie](https://source.unsplash.com/euGck1ifvp0)
 
