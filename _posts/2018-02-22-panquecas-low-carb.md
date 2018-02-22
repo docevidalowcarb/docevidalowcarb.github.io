@@ -40,6 +40,8 @@ Gente, preparar a **panqueca low carb** &eacute; muito f&aacute;cil mesmo! Voc&e
 
 Para fazer as panquecas low carb eu costumo usar o Soya Protein Powder da Pulsin, que &eacute; uma prote&iacute;na isolada usada para shakes, mas no Brasil n&atilde;o sei se voc&ecirc; encontra facilmente,&nbsp; ent&atilde;o se voc&ecirc; n&atilde;o encontrar voc&ecirc; pode usar a **Fibra de Soja da Yoki** ou **Fibra de Soja da Vitao**,&nbsp; ambas s&atilde;o boas, j&aacute; usei das duas marcas e sempre deram certo, a diferen&ccedil;a com a prote&iacute;na de soja isolada &eacute; o sabor que n&atilde;o &eacute; t&atilde;o forte, ent&atilde;o eu prefiro usar da Pulsin que &eacute; sem sabor.
 
+> **Dica:** Existem outros produtos com prote&iacute;na isolada, como Whey Protein (leite), Pea Protein (ervilha), se voc&ecirc; optar por qualquer um desses para usar nas suas receitas, &eacute; importante ficar de olho no **valor nutricional do produto** que voc&ecirc; escolher, porque muitos deles possuem adi&ccedil;&atilde;o de a&ccedil;&uacute;cares. Mas tanto a prote&iacute;na de soja quanto a fibra de soja tem menos de 1g de carboidrato para cada colher de sopa e s&atilde;o bem mais acess&iacute;veis.
+
 ![](/uploads/versions/soya-all-3-sizes-web---x----600-451x---.png)
 
 Voc&ecirc; pode fazer essa receita com panquecas pequenas, m&eacute;dias ou grandes. Eu adoro fazer grande para comer como wrap recheado com salada e ovo :)
