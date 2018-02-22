@@ -1,9 +1,9 @@
 ---
 date: 2018-01-31 00:00:00
-title: Panquecas Low Carb de Fibra de Soja
+title: Panquecas Low Carb
 categories:
   - Panquecas
-featured_image: /uploads/panqueca-low-carb-fibra-de-soja.jpg
+featured_image: /uploads/panqueca-low-carb-de-soja.jpg
 recipe:
   servings: 60 cookies
   prep: 15 minutes
