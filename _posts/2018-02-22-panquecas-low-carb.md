@@ -34,11 +34,21 @@ As Panquecas Low Carb s&atilde;o super f&aacute;ceis de fazer, e s&atilde;o uma 
 
 &nbsp;
 
-## Panqueca Low Carb sem farinha?
+## Panqueca Low Carb sem Farinha?
 
-Gente, preparar a panqueca Low Carb &eacute; muito f&aacute;cil mesmo! Voc&ecirc; n&atilde;o precisa ser nenhum chef, ou expert de cozinha para preparar essa deliciosa receitinha. Lembrando que essa receita n&atilde;o vai farinha, nem a&ccedil;&uacute;car e s&oacute; tem 2 g de carboidratos num total de 120 calorias por por&ccedil;&atilde;o, ok? Voc&ecirc; pode fazer essa receita com panquecas pequenas, m&eacute;dias ou grandes.
+Gente, preparar a **panqueca low carb** &eacute; muito f&aacute;cil mesmo! Voc&ecirc; n&atilde;o precisa ser nenhum chef, ou expert de cozinha para preparar essa deliciosa receitinha. Lembrando que essa **receita n&atilde;o vai farinha, nem a&ccedil;&uacute;car** e s&oacute; tem 2 g de carboidratos num total de 120 calorias por por&ccedil;&atilde;o, ok?
+
+Para fazer as panquecas low carb eu costumo usar o Soya Protein Powder da Pulsin, que &eacute; uma prote&iacute;na isolada usada para shakes, mas no Brasil n&atilde;o sei se voc&ecirc; encontra facilmente,&nbsp; ent&atilde;o se voc&ecirc; n&atilde;o encontrar voc&ecirc; pode usar a **Fibra de Soja da Yoki** ou **Fibra de Soja da Vitao**,&nbsp; ambas s&atilde;o boas, j&aacute; usei das duas marcas e sempre deram certo, a diferen&ccedil;a com a prote&iacute;na de soja isolada &eacute; o sabor que n&atilde;o &eacute; t&atilde;o forte, ent&atilde;o eu prefiro usar da Pulsin que &eacute; sem sabor.
+
+![](/uploads/versions/soya-all-3-sizes-web---x----600-451x---.png)
+
+Voc&ecirc; pode fazer essa receita com panquecas pequenas, m&eacute;dias ou grandes. Eu adoro fazer grande para comer como wrap recheado com salada e ovo :)
 
 ![](/uploads/versions/panqueca-low-carb-grande-sem-farinha---x----1560-877x---.jpg)
+
+Ou ent&atilde;o voc&ecirc; pode fazer no caf&eacute; do tarde para comer com presunto, ou simplesmente com uma manteiguinha por cima.
+
+&nbsp;
 
 Vamos ao passo a passo, mas voc&ecirc; pode conferir a receita integralmente ao final da p&aacute;gina, ok?
 
