@@ -6,7 +6,7 @@ url: "https://docevidalowcarb.github.io"
 baseurl: ""
 google_analytics_key: "UA-114647994-1"
 newsletter_action: 
-disqus_shortname: "fabiola_faria"
+disqus_shortname: "docevidalowcarb"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
