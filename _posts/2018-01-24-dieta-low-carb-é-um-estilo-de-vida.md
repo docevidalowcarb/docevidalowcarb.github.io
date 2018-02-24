@@ -3,6 +3,7 @@ published: true
 date: 2018-01-24 00:00:00
 title: Dieta Low Carb é um estilo de vida
 categories:
+  - Dieta Low Carb
 featured_image: /uploads/dieta-low-cabr-estilo-vida.jpg
 ---
 
