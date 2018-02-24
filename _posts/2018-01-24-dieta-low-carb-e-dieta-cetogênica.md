@@ -21,20 +21,10 @@ Primeiro, voc&ecirc; precisa entender que uma&nbsp;**dieta cetog&ecirc;nica** &e
 
 Na [literatura cient&iacute;fica](http://www.nutritionjrnl.com/article/S0899-9007(14)00332-3/fulltext), a maioria dos autores citam dietas low carb como dietas que tenham menos de 130g de carboidratos por dia ou menos de 26% das calorias di&aacute;rias. Segundo o Dr. Souto, em seu [site low-carb paleo](http://www.lowcarb-paleo.com.br/2017/10/cetose.html), ele comenta que dificilmente ocorre cetose nutricional consumindo mais de 30 a 40g de carboidratos por dia, o que significa que se voc&ecirc; consumir mais de 40g de carboidratos provavelmente voc&ecirc; n&atilde;o entrar&aacute; em cetose, condi&ccedil;&atilde;o esta necess&aacute;ria para uma dieta cetog&ecirc;nica, mas isso n&atilde;o significa que voc&ecirc; n&atilde;o esteja numa dieta low carb, porque de fato o seu consumo de carboidratos ainda &eacute; baixo e suficiente para dizer que ainda est&aacute; se alimentando conforme uma dieta low carb.
 
-## Dieta cetog&ecirc;nica &eacute; melhor do Dietas Low Carb?
+## Dieta cetog&ecirc;nica &eacute; melhor do que Dietas Low Carb?
 
-O que eu mais tenho falado para colegas que acompanham a dieta low carb &eacute; que a dieta cetog&ecirc;nica &eacute; um pouco mais restritiva do que outras dietas Low Carb, mas ainda assim n&atilde;o deixa de ser uma dieta de escolhas. Escolhas porque voc&ecirc; quem decide se quer comer ovos e bacon todos os dias, ou se prefere comer pratos verdes com legumes e verguras de baixo valor de carboidratos. Eu escolho sempre o equil&iacute;brio, e dessa forma a dieta cetog&ecirc;nica, apesar de restritiva pode ser prazerosa.
+O que eu mais tenho falado para colegas que acompanham dietas low carb &eacute; que a dieta cetog&ecirc;nica &eacute; um pouco mais restritiva do que outras dietas Low Carb, mas ainda assim n&atilde;o deixa de ser uma dieta de escolhas e de estilo de vida. Escolhas porque voc&ecirc; quem decide se quer comer ovos e bacon todos os dias, ou se prefere comer pratos verdes com legumes e verguras com baixo valor de carboidratos. Eu escolho sempre o equil&iacute;brio, e dessa forma a dieta cetog&ecirc;nica, apesar de restritiva tem sido prazerosa e muito gostosa para mim.
 
-![](/uploads/versions/prato-low-carb-cetogenica-verduras-legumes---x----1560-870x---.jpg)&nbsp;
+Isso de forma alguma significa que uma dieta cetog&ecirc;nica &eacute; melhor do que dietas low carb. Na verdade outras dietas low carb podem ser at&eacute; mais completas em valores nutricionais, mas isso sempre depender&aacute; do consumo de alimentos saud&aacute;veis, ou seja, tamb&eacute;m s&atilde;o escolhas. Mas em rela&ccedil;&atilde;o a perda de peso, uma dieta cetog&ecirc;nica n&atilde;o &eacute; necess&aacute;ria para esse objetivo, pois uma dieta low carb com boas escolhas por alimentos saud&aacute;veis tamb&eacute;m ter&aacute; a perda de peso.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+![](/uploads/versions/prato-low-carb-cetogenica-verduras-legumes---x----1560-870x---.jpg)
