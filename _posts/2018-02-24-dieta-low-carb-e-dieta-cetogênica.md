@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2018-01-24 00:00:00
+date: 2018-02-24 00:00:00
 title: Dieta Low Carb e Dieta Cetogênica
 categories:
   - Dieta Low Carb
@@ -23,8 +23,12 @@ Na [literatura cient&iacute;fica](http://www.nutritionjrnl.com/article/S0899-900
 
 ## Dieta cetog&ecirc;nica &eacute; melhor do que Dietas Low Carb?
 
-O que eu mais tenho falado para colegas que acompanham dietas low carb &eacute; que a dieta cetog&ecirc;nica &eacute; um pouco mais restritiva do que outras dietas Low Carb, mas ainda assim n&atilde;o deixa de ser uma dieta de escolhas e de estilo de vida. Escolhas porque voc&ecirc; quem decide se quer comer ovos e bacon todos os dias, ou se prefere comer pratos verdes com legumes e verguras com baixo valor de carboidratos. Eu escolho sempre o equil&iacute;brio, e dessa forma a dieta cetog&ecirc;nica, apesar de restritiva tem sido prazerosa e muito gostosa para mim.
+O que eu mais tenho falado para colegas que acompanham dietas low carb &eacute; que a dieta cetog&ecirc;nica &eacute; um pouco mais restritiva do que outras dietas Low Carb, mas ainda assim n&atilde;o deixa de ser uma dieta de escolhas e de estilo de vida. Escolhas porque voc&ecirc; quem decide se quer comer ovos e bacon todos os dias, ou se prefere comer pratos verdes com legumes e verguras com baixo valor de carboidratos. Eu escolho sempre o equil&iacute;brio, e dessa forma a dieta cetog&ecirc;nica, apesar de restritiva tamb&eacute;m tem sido prazerosa e muito gostosa para mim.
 
-Isso de forma alguma significa que uma dieta cetog&ecirc;nica &eacute; melhor do que dietas low carb. Na verdade outras dietas low carb podem ser at&eacute; mais completas em valores nutricionais, mas isso sempre depender&aacute; do consumo de alimentos saud&aacute;veis, ou seja, tamb&eacute;m s&atilde;o escolhas. Mas em rela&ccedil;&atilde;o a perda de peso, uma dieta cetog&ecirc;nica n&atilde;o &eacute; necess&aacute;ria para esse objetivo, pois uma dieta low carb com boas escolhas por alimentos saud&aacute;veis tamb&eacute;m ter&aacute; a perda de peso.
+Isso de forma alguma significa que uma dieta cetog&ecirc;nica &eacute; melhor do que dietas low carb. Na verdade outras dietas low carb podem ser at&eacute; mais completas em valores nutricionais, mas isso sempre depender&aacute; do consumo de alimentos saud&aacute;veis, ou seja, tamb&eacute;m depender&aacute; de boas escolhas. Mas em rela&ccedil;&atilde;o a perda de peso, uma dieta cetog&ecirc;nica n&atilde;o &eacute; necess&aacute;ria para esse objetivo, pois uma dieta low carb com boas escolhas por alimentos saud&aacute;veis tamb&eacute;m ter&aacute; a perda de peso.
 
 ![](/uploads/versions/prato-low-carb-cetogenica-verduras-legumes---x----1560-870x---.jpg)
+
+## Dieta Low carb &eacute; estilo de vida
+
+&nbsp;
