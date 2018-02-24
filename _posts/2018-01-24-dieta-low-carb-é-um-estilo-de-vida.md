@@ -6,7 +6,7 @@ categories:
 featured_image: /uploads/dieta-low-cabr-estilo-vida.jpg
 ---
 
-Oi Pessoal! Hoje vou falar um pouquinho sobre a&nbsp;**Dieta Low Carb**, e o que ela realmente representa na minha vida. Muitos podem achar que uma dieta low carb signifique apenas uma dieta sem a&ccedil;&uacute;car ou sem carboidratos, mas ela &eacute; muito mais do que apenas tirar carboidratos, na verdade ela &eacute; a escolha dos "bons carboidratos" na alimenta&ccedil;&atilde;o, um novo estilo de vida que aceita de forma natural os nutrientes que s&atilde;o necess&aacute;rios em qualquer dieta alimentar.
+Oi Pessoal! Hoje vou falar um pouquinho sobre a&nbsp;**Dieta Low Carb**, e o que ela realmente representa na minha vida. Muitos podem pensar que uma dieta low carb significa apenas uma dieta sem a&ccedil;&uacute;car ou sem carboidratos, mas ela &eacute; muito mais do que apenas tirar carboidratos, na verdade ela &eacute; a escolha dos "bons carboidratos" na alimenta&ccedil;&atilde;o, um novo estilo de vida que aceita de forma natural os nutrientes que s&atilde;o necess&aacute;rios em qualquer dieta alimentar.
 
 &nbsp;
 
