@@ -29,6 +29,14 @@ Isso de forma alguma significa que uma dieta cetog&ecirc;nica &eacute; melhor do
 
 ![](/uploads/versions/prato-low-carb-cetogenica-verduras-legumes---x----1560-870x---.jpg)
 
-## Dieta Low carb &eacute; estilo de vida
+## Dieta Low Carb &eacute; estilo de vida
+
+Quando eu falo que dieta low carb &eacute; estilo de vida &eacute; porque &eacute; assim que eu realmente encaro essa mudan&ccedil;a alimentar. Hoje eu como mais verduras do que comi em toda minha vida, meus pratos s&atilde;o 70% verduras ou legumes, e eu sei que &eacute; essa escolha por alimentos nutritivos e saud&aacute;veis que realmente est&atilde;o fazendo a diferen&ccedil;a na minha sa&uacute;de.
+
+Quando me perguntam se eu entrei nessa Dieta Low Carb s&oacute; para obter bons resultados na perda de peso, minha resposta &eacute; objetiva: "n&atilde;o quero morrer antes dos 50", ent&atilde;o obviamente quero uma mudan&ccedil;a de vida a longo prazo, e n&atilde;o apenas perder peso para entrar em um vestido de festa. Quero uma mudan&ccedil;a de dentro para fora, que a perda de peso seja apenas uma consequ&ecirc;ncia de uma vida mais saud&aacute;vel e que essa vida saud&aacute;vel seja resultado de boas escolhas.
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
