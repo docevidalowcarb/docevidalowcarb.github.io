@@ -4,7 +4,6 @@ date: 2018-02-24 00:00:00
 title: Dieta Low Carb e Dieta Cetogênica
 categories:
   - Dieta Low Carb
-  - Dieta Cetogênica
 featured_image: /uploads/dieta-low-cabr-estilo-vida.jpg
 recipe: false
 ---
