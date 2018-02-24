@@ -14,7 +14,7 @@ Oi Pessoal! Hoje vou falar um pouquinho sobre a&nbsp;**Dieta Low Carb**, e o que
 
 ## Dieta Low carb n&atilde;o &eacute; Dieta Cetog&ecirc;nica
 
-Quando falamos sobre dieta low carb nem sempre estamos falando em uma dieta cetog&ecirc;nica, porque uma dieta low carb n&atilde;o necessariamente &eacute; uma dieta cetog&ecirc;nica, mas uma dieta cetog&ecirc;nica sempre ser&aacute; uma dieta low carb. Ficou confuso? Calma, vou tentar explicar o que tenho estudado sobre a **dieta cetog&ecirc;nica** e apresentar algumas fontes importantes para falar sobre esse assunto.
+Quando falamos sobre dieta low carb nem sempre estamos falando em uma dieta cetog&ecirc;nica, mas sempre que falamos em dieta cetog&ecirc;nica estamos falando de uma dieta low carb. Ficou confuso? Calma, vou tentar explicar o que tenho estudado sobre a **dieta cetog&ecirc;nica** e apresentar algumas fontes importantes para falar sobre esse assunto.
 
 Primeiro, voc&ecirc; precisa entender que uma&nbsp;**dieta cetog&ecirc;nica** &eacute; uma dieta que restringe o consumo de carboidratos na alimenta&ccedil;&atilde;o, e ao restringir os carboidratos o corpo entra em **cetose**, que nada mais &eacute; do que deixar de utilizar a glicose como fonte principal de energia para utilizar os corpos cet&ocirc;nicos. Esses corpos cet&ocirc;nicos s&atilde;o produzidos atrav&eacute;s da oxida&ccedil;&atilde;o de gordura, por isso a dieta cetog&ecirc;nica &eacute; muito eficaz para a perda de gordura.
 
