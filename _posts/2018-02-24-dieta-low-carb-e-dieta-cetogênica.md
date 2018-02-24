@@ -38,6 +38,6 @@ Quando me perguntam se eu entrei nessa Dieta Low Carb s&oacute; para obter bons 
 
 Vou aproveitar para deixar nesse post um v&iacute;deo muito legal do Dr. Berg, falando sobre os efeitos de longo prazo de uma dieta Low carb.
 
-&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/bFLM55uvL9U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt; &nbsp;
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bFLM55uvL9U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 &nbsp;
