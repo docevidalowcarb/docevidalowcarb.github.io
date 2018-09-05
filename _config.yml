@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Doce Vida Low Carb
+title: Doce Low Carb
 url: "https://docevidalowcarb.github.io"
 baseurl: ""
 google_analytics_key: "UA-114647994-1"
@@ -10,13 +10,13 @@ disqus_shortname: docevidalowcarb
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Doce Low Carb é um blog onde compartilho a deliciosa experiência de criar receitas low carb. Venha conhecer esse prazeroso estilo de alimentação saudável que está mudando minha vida!
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Doce Vida Low Carb
+  name: Doce Low Carb
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
