@@ -3,5 +3,5 @@ layout: null
 sitemap: false
 ---
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://docelowcarb.com.br/sitemap.xml
 Disallow: /contact-success/
