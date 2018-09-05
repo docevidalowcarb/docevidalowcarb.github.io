@@ -59,6 +59,9 @@ defaults:
 compress_images:
   images_path: "images/**/*.{gif,png,jpg,jpeg,svg}"
   
+sass:
+  style: compressed
+  
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
