@@ -67,7 +67,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-compress-images
 
 exclude:
   - Gemfile
