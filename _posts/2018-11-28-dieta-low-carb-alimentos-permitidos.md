@@ -47,6 +47,10 @@ Para facilitar sua vida, preparamos uma lista de alimentos low carb separados en
 * Gr&atilde;os como arroz integral, feij&atilde;o, lentilha e gr&atilde;o-de-bico
 * Batata, batata doce, inhame, aipim e macaxeira.
 
+Entenda que Low Carb &eacute; diferente de cetog&ecirc;nica (Keto Diet), ent&atilde;o alguns alimentos com carboidratos ainda s&atilde;o permitidos, ainda que em pequenas quantidades.
+
+Leia mais em [Diferen&ccedil;a entre Low Carb e Cetog&ecirc;nica](https://docelowcarb.com.br/2018/02/24/dieta-low-carb-e-dieta-cetogenica/){: target="_blank"}
+
 ### Alimentos que devem ser evitados na Low Carb
 
 * A&ccedil;&uacute;car e doces em geral
