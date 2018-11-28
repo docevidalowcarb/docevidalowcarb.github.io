@@ -16,27 +16,21 @@ Que a low carb &eacute; uma dieta baseada na redu&ccedil;&atilde;o do carboidrat
 
 Um card&aacute;pio low carb diversificado e gostoso de comer n&atilde;o precisa ser complicado de fazer, basta seguir uma lista de alimentos low carb, montar suas prefer&ecirc;ncias, fazer substitui&ccedil;&otilde;es e pronto!
 
-Neste post vamos te ajudar a focar em uma dieta low carb com alimentos permitidos para que voc&ecirc; consiga perder os quilinhos que precisa sem dificuldades.
+Neste post vamos te ajudar a focar em uma **dieta low carb com alimentos permitidos** para que voc&ecirc; consiga perder os quilinhos que precisa sem dificuldades.
 
-<br>&nbsp;
-
-Dieta low carb: Alimentos permitidos
+## Dieta low carb: Alimentos permitidos
 
 Quando falamos em dieta low carb, o card&aacute;pio parece limitado, mas isto n&atilde;o &eacute; verdade. Todos os grupos alimentares devem estar presentes no seu prato, inclusive o carboidrato, s&oacute; que de forma e em quantidade corretos. O ideal &eacute; balancear a dieta low carb com alimentos permitidos e outros que podem ser consumidos com modera&ccedil;&atilde;o.
 
 Al&eacute;m disso, &eacute; importante conhecer a composi&ccedil;&atilde;o do que voc&ecirc; est&aacute; comendo. Em uma dieta low carb alimentos permitidos, como vegetais, queijos e carnes, podem ter diferen&ccedil;as. D&ecirc; prefer&ecirc;ncia &agrave; alimentos low carb frescos e naturais.
 
-<br>&nbsp;
-
-Lista de alimentos Low Carb pra copiar
+## Lista de alimentos Low Carb pra copiar
 
 Em uma dieta low carb alimentos permitidos devem ser a maior parte da sua alimenta&ccedil;&atilde;o, mas n&atilde;o precisam ser os &uacute;nicos.
 
 Para facilitar sua vida, preparamos uma lista de alimentos low carb separados entre os permitidos, os que podem ser consumidos com modera&ccedil;&atilde;o e aqueles que devem ser evitados sempre que poss&iacute;vel.
 
-<br>&nbsp;
-
-Alimentos permitidos na Low Carb
+### Alimentos permitidos na Low Carb
 
 Carnes, frango e peixes
 
@@ -62,7 +56,7 @@ Gr&atilde;os como arroz integral, feij&atilde;o, lentilha e gr&atilde;o-de-bico
 
 Batata, batata doce, inhame, aipim e macaxeira.
 
-Alimentos que devem ser evitados na dieta zero carboidrato
+### Alimentos que devem ser evitados na Low Carb
 
 A&ccedil;&uacute;car e doces em geral
 
@@ -74,15 +68,15 @@ Carnes processadas como presunto, salsicha, lingui&ccedil;a, e bacon
 
 Carboidratos simples, como arroz branco, macarr&atilde;o e tapioca
 
-Alimentos Low Carb que voc&ecirc; pode fazer em casa
+### Alimentos Low Carb que voc&ecirc; pode fazer em casa
 
 Para diversificar seu card&aacute;pio e n&atilde;o cair na tenta&ccedil;&atilde;o de sair da dieta zero carboidrato, voc&ecirc; pode preparar uma s&eacute;rie de receitas apetitosas em casa, usando alimentos sem carboidratos como ingredientes.
 
-Voc&ecirc; pode, por exemplo, preparar receitas de alimentos low carb como p&atilde;o, usando farinha de aveia e outros farelos. Com o tempo, voc&ecirc; vai acabar decorando a lista de alimentos low carb e vai ficar craque na hora de fazer as substitui&ccedil;&otilde;es para se manter na dieta.
+Voc&ecirc; pode, por exemplo, preparar receitas de alimentos low carb como p&atilde;o, usando farinha de aveia e outros farelos com baixo &iacute;ndice glic&ecirc;mico que falaremos com mais detalhes em outro momento. Com o tempo, voc&ecirc; vai acabar decorando a lista de alimentos low carb e vai ficar craque na hora de fazer as substitui&ccedil;&otilde;es para se manter na dieta.
 
 Mesmo quem n&atilde;o tem muita pr&aacute;tica no fog&atilde;o n&atilde;o precisa se preocupar, &eacute; poss&iacute;vel achar receitas de alimentos sem carboidratos bem f&aacute;ceis e pr&aacute;ticas de fazer. As receitas low carb usam muitos ovos, queijos, gorduras boas e outros alimentos sem carboidratos.
 
-Substitui&ccedil;&otilde;es que voc&ecirc; pode fazer dieta low carb
+## Substitui&ccedil;&otilde;es que voc&ecirc; pode fazer dieta low carb
 
 Em uma dieta sem carboidratos voc&ecirc; pode apostar em algumas substitui&ccedil;&otilde;es para garantir um card&aacute;pio gostoso e n&atilde;o sair da linha.
 
