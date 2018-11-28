@@ -40,7 +40,7 @@ Para facilitar sua vida, preparamos uma lista de alimentos low carb separados en
 * Sementes como chia e linha&ccedil;a
 * Caf&eacute; e ch&aacute;s sempre sem a&ccedil;&uacute;car
 
-## Alimentos permitidos na Low Carb, com modera&ccedil;&atilde;o
+### Alimentos permitidos na Low Carb, com modera&ccedil;&atilde;o
 
 * P&atilde;es integrais
 * Leite e iogurte
