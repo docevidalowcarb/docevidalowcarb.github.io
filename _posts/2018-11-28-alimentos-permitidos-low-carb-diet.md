@@ -1,7 +1,7 @@
 ---
 title: 'Dieta Low Carb: Alimentos Permitidos'
 categories:
-  - Dieta Low Carb
+  - LowCarb
 date: 2018-11-28 00:00:00
 featured_image: /uploads/alimentos-permitidos-low-carb-keto-paleo.jpg
 recipe:
