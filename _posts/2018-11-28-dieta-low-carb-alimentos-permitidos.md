@@ -32,41 +32,28 @@ Para facilitar sua vida, preparamos uma lista de alimentos low carb separados en
 
 ### Alimentos permitidos na Low Carb
 
-Carnes, frango e peixes
+* Carnes, frango e peixes
+* Castanhas, nozes, e avel&atilde;s
+* Queijos e Ovos
+* Frutas, verduras e legumes com baixo teor de carboidratos
+* Azeite, &oacute;leo de coco e manteiga
+* Sementes como chia e linha&ccedil;a
+* Caf&eacute; e ch&aacute;s sempre sem a&ccedil;&uacute;car
 
-Castanhas, nozes, e avel&atilde;s
+## Alimentos permitidos na Low Carb, com modera&ccedil;&atilde;o
 
-Queijos e Ovos
-
-Frutas, verduras e legumes com baixo teor de carboidratos
-
-Azeite, &oacute;leo de coco e manteiga
-
-Sementes como chia e linha&ccedil;a
-
-Caf&eacute; e ch&aacute;s sempre sem a&ccedil;&uacute;car
-
-Alimentos permitidos na Low Carb, com modera&ccedil;&atilde;o
-
-P&atilde;es integrais
-
-Leite e iogurte
-
-Gr&atilde;os como arroz integral, feij&atilde;o, lentilha e gr&atilde;o-de-bico
-
-Batata, batata doce, inhame, aipim e macaxeira.
+* P&atilde;es integrais
+* Leite e iogurte
+* Gr&atilde;os como arroz integral, feij&atilde;o, lentilha e gr&atilde;o-de-bico
+* Batata, batata doce, inhame, aipim e macaxeira.
 
 ### Alimentos que devem ser evitados na Low Carb
 
-A&ccedil;&uacute;car e doces em geral
-
-Cereais, como trigo e alimentos feitos dele como o p&atilde;es e torradas
-
-Gorduras trans, como comida pronta congelada e industrializados
-
-Carnes processadas como presunto, salsicha, lingui&ccedil;a, e bacon
-
-Carboidratos simples, como arroz branco, macarr&atilde;o e tapioca
+* A&ccedil;&uacute;car e doces em geral
+* Cereais, como trigo e alimentos feitos dele como o p&atilde;es e torradas
+* Gorduras trans, como comida pronta congelada e industrializados
+* Carnes processadas como presunto, salsicha, lingui&ccedil;a, e bacon
+* Carboidratos simples, como arroz branco, macarr&atilde;o e tapioca
 
 ### Alimentos Low Carb que voc&ecirc; pode fazer em casa
 
