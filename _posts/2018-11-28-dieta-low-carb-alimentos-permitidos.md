@@ -77,4 +77,4 @@ Quem disse que dieta zero carboidrato &eacute; s&oacute; comer carne? Lasanha de
 
 ## Receita: P&atilde;o de Frigideira Low Carb
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UiMpHjmiKaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="350" src="https://www.youtube.com/embed/UiMpHjmiKaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
