@@ -6,8 +6,8 @@ date: 2018-11-28 00:00:00
 featured_image: /uploads/alimentos-permitidos-low-carb-keto-paleo.jpg
 recipe:
   servings: 3 Pães
-  prep:
-  cook:
+  prep: 5 min
+  cook: 5 min
   ingredients_markdown: |-
     * 30g de manteiga
     * 2 colheres de farinha de am&ecirc;ndoas
