@@ -13,7 +13,10 @@ recipe:
     * 2 colheres de farinha de am&ecirc;ndoas
     * 1 ovo
     * 30g de queijo ralado a sua escolha
-  directions_markdown:
+  directions_markdown: |-
+    Siga o passo a passo do v&iacute;deo e aproveite!
+
+    &nbsp;
 ---
 
 Que a low carb é uma dieta baseada na redução do carboidratos, você já está cansada de saber, certo? A dificuldade pode surgir na hora de montar suas refeições e saber quais são os **alimentos permitidos na low carb**.
