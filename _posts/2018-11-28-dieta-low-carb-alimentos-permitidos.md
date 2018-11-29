@@ -74,3 +74,5 @@ Em uma dieta sem carboidratos voc&ecirc; pode apostar em algumas substitui&ccedi
 Ao inv&eacute;s de encher o prato de arroz branco, por exemplo, voc&ecirc; pode preparar um ‘arroz de couve flor’ que se bem feito e temperadinho, em nada fica devendo ao seu original, com a vantagem de estar dentro da sua low carb.
 
 Quem disse que dieta zero carboidrato &eacute; s&oacute; comer carne? Lasanha de berinjela e espaguete de abobrinha s&atilde;o s&oacute; algumas de outras trocas deliciosas que voc&ecirc; pode fazer dentro do seu card&aacute;pio por alimentos sem carboidratos.
+
+## Receita: P&atilde;o de Frigideira Low Carb
