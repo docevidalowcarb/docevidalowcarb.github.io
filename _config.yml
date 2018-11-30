@@ -27,6 +27,10 @@ paginate: 10
 paginate_path: "/:num/"
 permalink: pretty
 
+collections:
+  stories:
+    output: true      
+
 defaults:
   -
     scope:
