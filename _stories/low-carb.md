@@ -13,7 +13,7 @@ pages:
    bottom: Vem ver os alimentos permitidos na Low Carb, hummm!
    background: https://docelowcarb.com.br/uploads/alimentos-permitidos-low-carb-keto-paleo.jpg
    cta:
-      link: https://docelowcarb.com.br
+      link: https://docelowcarb.com.br/lowcarb/2018/11/28/dieta-low-carb-alimentos-permitidos/
       text: Alimentos permitidos na Low Carb
  - page-number: 2
    layout: thirds
