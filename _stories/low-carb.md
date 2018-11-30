@@ -1,7 +1,7 @@
 ---
 layout: ampstory
 title: Low carb Stories
-date: 
+date: November 30th 2018
 cover:
    title: Receitas Deliciosas Low Carb
    subtitle: <h3>Vem ver...</h3>
