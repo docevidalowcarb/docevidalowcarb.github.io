@@ -9,7 +9,7 @@ cover:
    bottom: <p>⚡</p>
 pages: 
  - page-number: 1
-   layout: vertical
+   layout: thirds
    top: <h1>Low carb Low carb 🔥 Alimentos permitidos</h1>
    bottom: Vem ver os alimentos permitidos na Low Carb, hummm!
    background: https://docelowcarb.com.br/uploads/alimentos-permitidos-low-carb-keto-paleo.jpg
