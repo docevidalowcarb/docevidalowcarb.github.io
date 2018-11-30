@@ -1,16 +1,16 @@
 ---
 layout: ampstory
-title: Testing!
-date: March 15th 2018
+title: Low carb Stories
+date: Dezembro 2018
 cover:
    title: Receitas Deliciosas Low Carb
    subtitle: <h3>Vem ver...</h3>
 pages: 
  - page-number: 1
    layout: vertical
-   top: <h1>Low carb Low carb</h1>
-   bottom: Pãozinho de Frigideira, hummm!
-   video: https://www.youtube.com/watch?v=UiMpHjmiKaQ
+   top: <h1>Low carb Low carb 🔥</h1>
+   bottom: Vem ver receitinhas Deliciosas, hummm!
+   image: https://docelowcarb.com.br/uploads/alimentos-permitidos-low-carb-keto-paleo.jpg
  - page-number: 2
    layout: thirds
    top: Hello
