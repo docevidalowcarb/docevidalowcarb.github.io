@@ -5,6 +5,7 @@ date: November 30th 2018
 cover:
    title: Receitas Deliciosas Low Carb
    subtitle: <h3>Vem ver...</h3>
+   background: https://docelowcarb.com.br/uploads/dieta-low-cabr-estilo-vida.jpg
 pages: 
  - page-number: 1
    layout: vertical
