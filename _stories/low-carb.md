@@ -8,17 +8,18 @@ cover:
 pages: 
  - page-number: 1
    layout: vertical
-   top: <h1>Low carb Low carb 🔥</h1>
-   bottom: Vem ver receitinhas Deliciosas, hummm!
+   top: <h1>Low carb Low carb 🔥 Alimentos permitidos</h1>
+   bottom: Vem ver os alimentos permitidos na Low Carb, hummm!
    background: https://docelowcarb.com.br/uploads/alimentos-permitidos-low-carb-keto-paleo.jpg
+   cta:
+      link: https://docelowcarb.com.br
+      text: Alimentos permitidos na Low Carb
  - page-number: 2
    layout: thirds
    top: Hello
    middle: <h2>What 🔥</h2>
    background: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
-   cta:
-      link: https://tomcritchlow.com
-      text: this is a cta!
+  
  - page-number: 3
    layout: thirds
    h1: 
