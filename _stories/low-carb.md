@@ -24,7 +24,7 @@ pages:
  - page-number: 3
    layout: thirds
    top: <h2>🔥 Low Carb não é só cetogênica. Você sabe a diferença?</h2>
-   middle: “Quando falamos sobre dieta low carb nem sempre estamos falando em uma dieta cetogênica, mas sempre que falamos em dieta cetogênica estamos falando de uma dieta low carb. Ficou confuso? Calma, vou tentar explicar”
+   middle: “Quando falamos sobre dieta low carb nem sempre estamos falando em uma dieta cetogênica, mas sempre que falamos em dieta cetogênica estamos falando de uma dieta low carb. Ficou confuso? Calma, vou tentar explicar. Clica aqui 👇”
    cta:
       link: https://docelowcarb.com.br/2018/02/24/dieta-low-carb-e-dieta-cetogenica/
    bottom: <p>⚡</p>
