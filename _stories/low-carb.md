@@ -17,9 +17,9 @@ pages:
       text: Alimentos permitidos na Low Carb
  - page-number: 2
    layout: thirds
-   top: Hello
+   top: Panquecas Low Carb para Café da Manhã
    middle: <h2>What 🔥</h2>
-   background: https://media.giphy.com/media/11OGRpGUmFXiIo/giphy.gif
+   background: https://docelowcarb.com.br/uploads/panqueca-low-carb-de-soja.jpg
 
  - page-number: 3
    layout: thirds
