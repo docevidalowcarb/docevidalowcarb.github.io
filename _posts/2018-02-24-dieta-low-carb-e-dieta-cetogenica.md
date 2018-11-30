@@ -5,7 +5,7 @@ title: Dieta Low Carb e Dieta Cetogênica
 categories:
 featured_image: /uploads/dieta-low-cabr-estilo-vida.jpg
 recipe: false
-redirect_from: https://docelowcarb.com.br/2018/02/24/dieta-low-carb-e-dieta-cetog%C3%AAnica/
+redirect_from: "/dieta-low-carb-e-dieta-cetog%C3%AAnica/"
 ---
 
 Oi Pessoal! Hoje vou falar um pouquinho sobre a&nbsp;**Dieta Low Carb e Dieta Cetog&ecirc;nica**, e o que elas realmente representam na minha vida. Muitos podem pensar que uma ***dieta low carb cetog&ecirc;nica*** significa apenas uma dieta sem a&ccedil;&uacute;car ou sem carboidratos, mas ela &eacute; muito mais do que apenas tirar carboidratos, na verdade ela &eacute; a escolha dos “**bons carboidratos**” na alimenta&ccedil;&atilde;o, um novo estilo de vida que aceita de forma natural os nutrientes que s&atilde;o necess&aacute;rios em qualquer dieta alimentar.
