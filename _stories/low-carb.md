@@ -10,7 +10,7 @@ pages:
    layout: vertical
    top: <h1>Low carb Low carb 🔥</h1>
    bottom: Vem ver receitinhas Deliciosas, hummm!
-   image: https://docelowcarb.com.br/uploads/alimentos-permitidos-low-carb-keto-paleo.jpg
+   background: https://docelowcarb.com.br/uploads/alimentos-permitidos-low-carb-keto-paleo.jpg
  - page-number: 2
    layout: thirds
    top: Hello
