@@ -3,14 +3,14 @@ layout: ampstory
 title: Testing!
 date: March 15th 2018
 cover:
-   title: Testing, testing, 123
-   subtitle: <h3>Some dicking around...</h3>
+   title: Receitas Deliciosas Low Carb
+   subtitle: <h3>Vem ver...</h3>
 pages: 
  - page-number: 1
    layout: vertical
-   top: <h1>aitch 1</h1>
-   bottom: hello world
-   image: https://media.giphy.com/media/bR0bOK6Zoq7m/giphy.gif
+   top: <h1>Low carb Low carb</h1>
+   bottom: Pãozinho de Frigideira, hummm!
+   image: https://www.youtube.com/watch?v=UiMpHjmiKaQ
  - page-number: 2
    layout: thirds
    top: Hello
