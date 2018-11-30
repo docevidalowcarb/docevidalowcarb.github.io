@@ -21,6 +21,9 @@ pages:
    top: Panquecas Low Carb para Café da Manhã
    middle: <h2>What 🔥</h2>
    background: https://docelowcarb.com.br/uploads/panqueca-low-carb-de-soja.jpg
+   cta:
+      link: https://docelowcarb.com.br/panquecas/2018/02/22/panquecas-low-carb/
+      text: Receita de Panqueca Low Carb
 
  - page-number: 3
    layout: thirds
