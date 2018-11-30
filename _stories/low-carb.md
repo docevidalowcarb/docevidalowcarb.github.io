@@ -28,5 +28,6 @@ pages:
    middle: “Quando falamos sobre dieta low carb nem sempre estamos falando em uma dieta cetogênica, mas sempre que falamos em dieta cetogênica estamos falando de uma dieta low carb. Ficou confuso? Calma, vou tentar explicar. Clica aqui 👇”
    cta:
       link: https://docelowcarb.com.br/2018/02/24/dieta-low-carb-e-dieta-cetogenica/
+      text: Dieta Low Carb e Dieta Cetogênica
    textcolor: red
 ---
