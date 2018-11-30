@@ -6,6 +6,7 @@ cover:
    title: Receitas Deliciosas Low Carb
    subtitle: <h3>Vem ver...</h3>
    background: https://docelowcarb.com.br/uploads/dieta-low-cabr-estilo-vida.jpg
+   bottom: <p>⚡</p>
 pages: 
  - page-number: 1
    layout: vertical
@@ -27,6 +28,5 @@ pages:
    middle: “Quando falamos sobre dieta low carb nem sempre estamos falando em uma dieta cetogênica, mas sempre que falamos em dieta cetogênica estamos falando de uma dieta low carb. Ficou confuso? Calma, vou tentar explicar. Clica aqui 👇”
    cta:
       link: https://docelowcarb.com.br/2018/02/24/dieta-low-carb-e-dieta-cetogenica/
-   bottom: <p>⚡</p>
    textcolor: red
 ---
