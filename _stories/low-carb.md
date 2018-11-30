@@ -29,12 +29,4 @@ pages:
       link: https://docelowcarb.com.br/2018/02/24/dieta-low-carb-e-dieta-cetogenica/
    bottom: <p>⚡</p>
    textcolor: red
- - page-number: 5
-   background: https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/Torus_Cutaway_AC75-1086-1_1920.jpg
- - layout: thirds
-   middle: <h3>Testing some sweet sweet h3 action</h3>
- - layout: vertical
-   image: https://cdn.shopify.com/s/files/1/0296/9253/t/14/assets/logo580.png?2632249778657409565
-   bottom: The best art in Brooklyn   
- - background: https://cdn.shopify.com/s/files/1/0296/9253/products/2018-03-12-Facture-107_1024x1024.jpg?v=1521132859   
 ---
