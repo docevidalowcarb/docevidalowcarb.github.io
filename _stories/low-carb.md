@@ -10,7 +10,7 @@ pages:
    layout: vertical
    top: <h1>Low carb Low carb</h1>
    bottom: Pãozinho de Frigideira, hummm!
-   image: https://www.youtube.com/watch?v=UiMpHjmiKaQ
+   video: https://www.youtube.com/watch?v=UiMpHjmiKaQ
  - page-number: 2
    layout: thirds
    top: Hello
