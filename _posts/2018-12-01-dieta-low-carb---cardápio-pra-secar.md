@@ -1,7 +1,7 @@
 ---
 title: Dieta Low Carb - Cardápio pra secar
 categories:
-date:
+date: 2018-12-01 00:00:00
 featured_image: /uploads/veggies-low-carb.jpg
 recipe:
   servings:
