@@ -15,8 +15,6 @@ recipe:
     * 30g de queijo ralado a sua escolha
   directions_markdown: |-
     Siga o passo a passo do v&iacute;deo e aproveite!
-
-    &nbsp;
 ---
 
 Que a low carb é uma dieta baseada na redução do carboidratos, você já está cansada de saber, certo? A dificuldade pode surgir na hora de montar suas refeições e saber quais são os **alimentos permitidos na low carb**.
@@ -84,4 +82,4 @@ Quem disse que dieta zero carboidrato é só comer carne? Lasanha de berinjela e
 
 ## Receita: Pão de Frigideira Low Carb
 
-<iframe width="600" height="350" src="https://www.youtube.com/embed/UiMpHjmiKaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+{% youtube UiMpHjmiKaQ %}
