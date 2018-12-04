@@ -1,11 +1,11 @@
 ---
 layout: ampstory
-title: Receitas Low Carb | Doce Low Carb-(copy)
-date: November 30th 2018
+title: Pão de Queijo Low Carb
+date: 2018-12-04 00:00:00 +0000
 cover:
-  title: Receitas Deliciosas Low Carb
-  subtitle: "<h3>Vem ver...</h3>"
-  background: https://docelowcarb.com.br/uploads/dieta-low-cabr-estilo-vida.jpg
+  title: Pão de Queijo Low Carb
+  subtitle: "<h3>Somente 3 Ingredientes</h3>"
+  background: https://www.youtube.com/watch?v=c0Ynn48gUiM
   bottom: "<p>⚡</p>"
 pages:
 - page-number: 1
