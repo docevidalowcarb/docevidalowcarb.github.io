@@ -42,6 +42,5 @@ pages:
     link: https://docelowcarb.com.br/2018/02/24/dieta-low-carb-e-dieta-cetogenica/
     text: Dieta Low Carb e Dieta Cetogênica
   textcolor: red
-published: false
 
 ---
