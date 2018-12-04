@@ -3,7 +3,7 @@ title: '[Receita] Quiche Low Carb para o Natal'
 categories:
   - Receitas
 date: 2018-12-03 00:00:00
-featured_image:
+featured_image: /uploads/quiche-low-carb-bacon-alho-poro.jpg
 recipe:
   servings:
   prep:
@@ -19,6 +19,8 @@ Ainda vou gravar um v&iacute;deo dessa receita de Quiche Low Carb para meu novo 
 ## **Quiche Low Carb de Alho Por&oacute; com Bacon**
 
 O Quiche Low Carb que eu preparei foi um delicioso Quiche de Alho Por&oacute; com Bacon. Antes mesmo de voc&ecirc; come&ccedil;ar a fazer eu recomendo muito que voc&ecirc; tenha alguma forminha pr&oacute;pria para Quiche, ou para tortinhas, aquelas com a base remov&iacute;vel, ou ent&atilde;o voc&ecirc; pode improvisar como eu fiz, mas ter&aacute; que tomar cuidado na hora de tirar para n&atilde;o quebrar o seu Quiche Low Carb.
+
+![](/uploads/quiche-low-carb-forminha.jpg)
 
 A base &eacute; feita somente com Manteiga Ghee, ovo e farinha de am&ecirc;ndoas. Se voc&ecirc; n&atilde;o tiver a manteiga Ghee pronta, n&atilde;o se preocupa que ela nada mais &eacute; do que a manteiga clarificada, ou seja, a manteiga que voc&ecirc; retirar a lactose e outros componentes deixando somente a gordura. &Eacute; o mesmo processo tamb&eacute;m da manteiga de garrafa. Ent&atilde;o vamos explicar como fazer sua manteiga Ghee em casa, que &eacute; um processo muito simples.
 
@@ -50,7 +52,9 @@ Algumas sugest&otilde;es de Quiches com recheios diferentes s&atilde;o:
 
 E muito mais!
 
-Na receita de hoje eu escolhi o Quiche Low Carb de Bacon com Alho Por&oacute;. Ficou divino, ent&atilde;o espero que voc&ecirc; tamb&eacute;m goste!
+Na receita de hoje eu escolhi o Quiche Low Carb de Bacon com Alho Por&oacute;. Ficou divino, ent&atilde;o espero que voc&ecirc; tamb&eacute;m goste, e quem sabe n&atilde;o prepara essa receita Low Carb para o Natal em fam&iacute;lia!
+
+&nbsp;
 
 &nbsp;
 
