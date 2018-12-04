@@ -59,7 +59,7 @@ A base do Quiche Low Carb é feita somente com Manteiga Ghee, ovo, farinha de am
 Para fazer sua manteiga Ghee caseira é muito simples:
 
 1. Adicione a manteiga em fogo baixo, até que ela derreta por completo. Nesse processo a manteiga vai se separar em 3 fases: uma espuma na superfície, a manteiga (um óleo amarelo) e no fundo os resíduos da proteína do leite. 
-2. Então depois com cuidado você retira a espuma, e em uma vasilha você deposita lentamente em um recipiente de vidro o óleo amarelo, que basicamente é nossa Manteiga Ghee.
+2. Então depois com cuidado você retira a espuma, e em uma vasilha de vidro você deposita lentamente o óleo amarelo, que basicamente é nossa Manteiga Ghee.
 3. Pronto! Você ainda pode coar e deixar ela ainda mais "limpa" mas depois de algumas vezes fazendo você vai ver que nem precisa mais dessa etapa.
 
 Com a manteiga Ghee caseira você pode fazer deliciosas receitas Low Carb, principalmente como base de tortas, bolos, cheesecakes e uma infinidade de pratos salgados saudáveis, já que a manteiga Ghee permite atingir altas temperaturas sem perder suas propriedades e principalmente sem queimar, o que é normal quando usamos a manteiga com lactose.
