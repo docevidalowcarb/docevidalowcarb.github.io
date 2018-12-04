@@ -1,6 +1,6 @@
 ---
 layout: ampstory
-title: Low carb Stories
+title: Receitas Low Carb | Doce Low Carb
 date: November 30th 2018
 cover:
    title: Receitas Deliciosas Low Carb
