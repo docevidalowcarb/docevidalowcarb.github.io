@@ -39,7 +39,7 @@ recipe:
     * Levar ao forno pré aquecido a 180 graus por 25 min 
 ---
 
-Olá pessoas lindas que adoram receitas Low Carb deliciosas! Hoje quero compartilhar aqui uma receitinha muito maravilhosa de **Quiche Low Carb para o seu Natal** ser ainda mais gostoso! O Quiche Low carb é uma receita low carb fácil de fazer e fica perfeito para acompanhar saladas no almoço e na janta, ou até mesmo para comer como um lanche da tarde.
+Olá pessoas lindas que adoram receitas Low Carb deliciosas! Hoje quero compartilhar aqui uma receitinha muito maravilhosa de **Quiche Low Carb para o seu Natal** ser ainda mais gostoso! O Quiche de Bacon com Alho Poró é uma receita low carb fácil de fazer e fica perfeito para acompanhar saladas no almoço e na janta, ou até mesmo para comer como um lanche da tarde.
 
 Ainda vou gravar um vídeo dessa receita de Quiche Low Carb para meu novo canal [Doce Low Carb no Youtube](https://www.youtube.com/fabiolafaria?sub_confirmation=1){: target="_blank"}, mas você já pode se inscrever para acompanhar as novidades por lá também.
 
@@ -49,7 +49,7 @@ O Quiche Low Carb que eu preparei foi um delicioso Quiche de Alho Poró com Baco
 
 ![](/uploads/quiche-low-carb-forminha.jpg)
 
-A base é feita somente com Manteiga Ghee, ovo e farinha de amêndoas. Se você não tiver a manteiga Ghee pronta, não se preocupa que ela nada mais é do que a manteiga clarificada, ou seja, a manteiga que você retirar a lactose e outros componentes deixando somente a gordura. É o mesmo processo também da manteiga de garrafa. Então vamos explicar como fazer sua manteiga Ghee em casa, que é um processo muito simples.
+A base é feita somente com Manteiga Ghee, ovo, farinha de amêndoas e farelo de aveia. Se você não tiver a manteiga Ghee pronta, não se preocupa que ela nada mais é do que a manteiga clarificada, ou seja, a manteiga que você retirar a lactose e outros componentes deixando somente a gordura. É o mesmo processo também da manteiga de garrafa. Então vamos explicar como fazer sua manteiga Ghee em casa, que é um processo muito simples.
 
 ## Como fazer Manteiga Ghee Caseira
 
@@ -63,11 +63,11 @@ Para fazer sua manteiga Ghee caseira é muito simples:
 
 Com a manteiga Ghee caseira você pode fazer deliciosas receitas Low Carb, principalmente como base de tortas, bolos, cheesecakes e uma infinidade de pratos salgados saudáveis, já que a manteiga Ghee permite atingir altas temperaturas sem perder suas propriedades e principalmente sem queimar, o que é normal quando usamos a manteiga com lactose.
 
-## Quiche Low Carb com Farinha de Amêndoas
+## Quiche Low Carb com Farinha de Amêndoas e Farelo de Aveia
 
-A base para esse Quiche low carb é Farinha de Amêndoas e Manteiga, eu não testei com outras farinhas permitidas na Low carb, mas se você quiser testar então fique à vontade para deixar também seu comentário sobre outra receita de Quiche por aqui. OK?
+A base para esse Quiche low carb é Farinha de Amêndoas e Farelo de Aveia, eu não testei com outras farinhas permitidas na Low carb, mas se você quiser testar então fique à vontade para deixar também seu comentário sobre outra receita de Quiche por aqui. OK? A Farinha de Amêndoas e o Farelo de Aveia você acha facilmente em casa de produtos naturais, e muitas vezes até mesmo no supermercado. Cuidado para não comprar a Aveia em Flocos no lugar do Farelo de Aveia.
 
-Mas caso você não queira perder seu tempo testando com outras farinhas, eu garanto que com Farinha de Amêndoas vai dar super certo, e fica delicioso mesmo com substituições no recheio, porque no recheio sim você pode fazer o que você quiser e do jeitinho que você estiver com vontade.
+Eu garanto que com Farinha de Amêndoas e o Farelo de Aveia vai dar super certo, e fica delicioso mesmo com substituições no recheio, porque no recheio sim você pode fazer o que você quiser e do jeitinho que você estiver com vontade.
 
 Algumas sugestões de Quiches com recheios diferentes são:
 
@@ -80,3 +80,5 @@ Algumas sugestões de Quiches com recheios diferentes são:
 E muito mais!
 
 Na receita de hoje eu escolhi o Quiche Low Carb de Bacon com Alho Poró. Ficou divino, então espero que você também goste, e quem sabe não prepara essa receita Low Carb para o Natal em família!
+
+Deixo um agradecimento especial para a @roselowcarb que me passou essa receita de Base do Quiche que foi quase um presente para minha Dieta Low Carb!
