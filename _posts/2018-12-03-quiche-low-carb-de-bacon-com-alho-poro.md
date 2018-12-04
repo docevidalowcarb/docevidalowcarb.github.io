@@ -18,11 +18,25 @@ recipe:
 
     ### Recheio:
 
-    * 1 alho por&oacute;
-    * 50g de bacon em cubos
+    * 1 alho por&oacute; picado em rodelinhas
+    * 50g de bacon em cubinhos
     * 3 colheres de cream cheese ou requeij&atilde;o
     * Sal e pimenta &agrave; gosto
-  directions_markdown:
+    * 100g de queijo para gratinar
+  directions_markdown: |-
+    ### Massa:
+    
+    * Juntar todos os ingredientes em um recipiente mexendo bem até que se forme um massa consistente.
+    * Colocar a massa em forminhas, pressionando para ficar lisinha, porém não muito fina
+    * Reservar para o recheio
+    
+    ### Recheio:
+
+    * Fritar o bacon em cubos e adicionar o alho poró para refogar. Adicionar o cream cheese ou requeijão para dar uma cremosidade, mas não deixando o recheio muito líquido.
+    * Como o bacon já é salgado, cuidado para não salgar mais do que o necessário.
+    * Colocar o recheio dentro das massas com cuidado para não furar.
+    * Por último colocar o queijo por cima para gratinar.
+    * Levar ao forno pré aquecido a 180 graus por 25 min 
 ---
 
 Olá pessoas lindas que adoram receitas Low Carb deliciosas! Hoje quero compartilhar aqui uma receitinha muito maravilhosa de **Quiche Low Carb para o seu Natal** ser ainda mais gostoso! O Quiche Low carb é uma receita low carb fácil de fazer e fica perfeito para acompanhar saladas no almoço e na janta, ou até mesmo para comer como um lanche da tarde.
