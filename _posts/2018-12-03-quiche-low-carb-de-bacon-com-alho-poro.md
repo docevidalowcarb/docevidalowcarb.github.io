@@ -32,7 +32,8 @@ recipe:
     
     ### Recheio:
 
-    * Fritar o bacon em cubos e adicionar o alho poró para refogar. Adicionar o cream cheese ou requeijão para dar uma cremosidade, mas não deixando o recheio muito líquido.
+    * Em uma panela em fogo médio, fritar o bacon em cubos e adicionar o alho poró para refogar. 
+    * Adicionar o cream cheese ou requeijão para dar uma cremosidade, mas não deixando o recheio muito líquido.
     * Como o bacon já é salgado, cuidado para não salgar mais do que o necessário.
     * Colocar o recheio dentro das massas com cuidado para não furar.
     * Por último colocar o queijo por cima para gratinar.
