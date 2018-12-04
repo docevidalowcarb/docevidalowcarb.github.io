@@ -34,6 +34,30 @@ Para fazer sua manteiga Ghee caseira &eacute; muito simples:
 
 Com a manteiga Ghee caseira voc&ecirc; pode fazer deliciosas receitas Low Carb, principalmente como base de tortas, bolos, cheesecakes e uma infinidade de pratos salgados saud&aacute;veis, j&aacute; que a manteiga Ghee permite atingir altas temperaturas sem perder suas propriedades e principalmente sem queimar, o que &eacute; normal quando usamos a manteiga com lactose.
 
+## Quiche Low Carb com Farinha de Am&ecirc;ndoas
+
+A base para esse Quiche low carb &eacute; Farinha de Am&ecirc;ndoas e Manteiga, eu n&atilde;o testei com outras farinhas permitidas na Low carb, mas se voc&ecirc; quiser testar ent&atilde;o fique &agrave; vontade para deixar tamb&eacute;m seu coment&aacute;rio sobre outra receita de Quiche por aqui. OK?
+
+Mas caso voc&ecirc; n&atilde;o queira perder seu tempo testando com outras farinhas, eu garanto que com Farinha de Am&ecirc;ndoas vai dar super certo, e fica delicioso mesmo com substitui&ccedil;&otilde;es no recheio, porque no recheio sim voc&ecirc; pode fazer o que voc&ecirc; quiser e do jeitinho que voc&ecirc; estiver com vontade.
+
+Algumas sugest&otilde;es de Quiches com recheios diferentes s&atilde;o:
+
+* Quiche Low Carb de Frango
+* Quiche Low Carb de Queijo
+* Quiche Low Carb de Espinafre
+* Quiche Low Carb de Bacon
+* Quiche de Bacalhau Low Carb
+
+E muito mais!
+
+Na receita de hoje eu escolhi o Quiche Low Carb de Bacon com Alho Por&oacute;. Ficou divino, ent&atilde;o espero que voc&ecirc; tamb&eacute;m goste!
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
