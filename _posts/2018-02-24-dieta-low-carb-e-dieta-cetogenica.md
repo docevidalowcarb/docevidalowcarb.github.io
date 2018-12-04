@@ -38,7 +38,7 @@ Quando me perguntam se eu entrei nessa Dieta Low Carb s&oacute; para obter bons 
 
 Vou aproveitar para deixar nesse post um v&iacute;deo muito legal do Dr. Berg, falando sobre os efeitos de longo prazo de uma dieta Low carb. Nesse v&iacute;deo ele fala sobre a necessidade dos carboidratos provenientes de vegetais, n&atilde;o porque voc&ecirc; precisa desses carboidratos, mas porque voc&ecirc; precisa das vitaminas e minerais que esses alimentos oferecem. Ele tamb&eacute;m esclarece algumas d&uacute;vidas em rela&ccedil;&atilde;o a tire&oacute;ide na dieta low carb, e os benef&iacute;cios de se manter em uma dieta low carb.
 
-{% youtube 'https://www.youtube.com/embed/bFLM55uvL9U' %}
+<iframe width="460" height="280" src="https://www.youtube.com/embed/bFLM55uvL9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Dica: Se precisar voc&ecirc; pode ativar a tradu&ccedil;&atilde;o pois o v&iacute;deo est&aacute; em Ingl&ecirc;s, mas qualquer d&uacute;vida voc&ecirc; tamb&eacute;m pode deixar um coment&aacute;rio nesse post.
 
