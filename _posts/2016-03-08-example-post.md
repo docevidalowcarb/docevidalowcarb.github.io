@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-amp
 title: Ea eam nibh persecuti, partem habemus nominavi
 ---
 
