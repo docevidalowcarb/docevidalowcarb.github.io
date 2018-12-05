@@ -1,7 +1,7 @@
 ---
 layout: post-amp
 title: Ea eam nibh persecuti, partem habemus nominavi
-date: 2018-12-05 00:00:00
+date: 2018-12-05
 ---
 
 At labitur probatus eum, qui modo idque partem ne, ea has oratio sanctus cotidieque. Dicta persecuti sit ex. Discere facilis recteque sit no, in eripuit volumus adversarium vim. Ad sed meis nulla accusata. Ex posse accusam maluisset mei, id vix ignota cetero inimicus.
