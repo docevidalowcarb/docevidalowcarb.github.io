@@ -55,7 +55,7 @@ A base do Quiche Low Carb é feita somente com Manteiga Ghee, ovo, farinha de am
 
 ## Como fazer Manteiga Ghee Caseira
 
-![](/uploads/manteiga-ghee-clarificada.jpg)
+<amp-img width="600" height="300" layout="responsive" src="/uploads/manteiga-ghee-clarificada.jpg"></amp-img>
 
 Para fazer sua manteiga Ghee caseira é muito simples:
 
