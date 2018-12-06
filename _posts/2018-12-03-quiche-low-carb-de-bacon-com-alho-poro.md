@@ -10,23 +10,23 @@ recipe:
   prep: 15min
   cook: 25min
   ingredients_markdown: |-
-    ### Massa:
+### Massa:
     * 1 x&iacute;cara de farinha de am&ecirc;ndoas
     * 1 x&iacute;cara de farelo de aveia
     * 3 colheres de sopa de manteiga Ghee, ou de garrafa.
     * 1 ovo
-    ### Recheio:
+### Recheio:
     * 1 alho por&oacute; picado em rodelinhas
     * 50g de bacon em cubinhos
     * 3 colheres de cream cheese ou requeij&atilde;o
     * Sal e pimenta &agrave; gosto
     * 100g de queijo para gratinar
   directions_markdown: |-
-    ### Massa:
+### Massa:
     * Juntar todos os ingredientes em um recipiente mexendo bem até que se forme um massa consistente.
     * Colocar a massa em forminhas, pressionando para ficar lisinha, porém não muito fina
     * Reservar para o recheio
-    ### Recheio:
+### Recheio:
     * Em uma panela em fogo médio, fritar o bacon em cubos e adicionar o alho poró para refogar. 
     * Adicionar o cream cheese ou requeijão para dar uma cremosidade, mas não deixando o recheio muito líquido.
     * Como o bacon já é salgado, cuidado para não salgar mais do que o necessário.
