@@ -92,7 +92,9 @@ layout: default-amp
             <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{site.name}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
           </div>
         </footer> -->
+       	
        	{% if site.disqus_shortname and page.comments %}
+       	<amp-iframe>
 		<div id="disqus_thread"></div>
 		<script>
 			var disqus_shortname = '{{ site.disqus_shortname }}';
@@ -108,6 +110,7 @@ layout: default-amp
 			})();
 		</script>
 		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+		</amp-iframe>
 	{% endif %}
       </div>
     </div>
