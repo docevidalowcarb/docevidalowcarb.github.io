@@ -94,9 +94,12 @@ layout: default-amp
         </footer> -->
        	
        	{% if site.disqus_shortname and page.comments %}
-       	<amp-iframe>
-	
-		</amp-iframe>
+       	<amp-iframe width=600 height=140
+            layout="responsive"
+            sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
+            resizable
+            src="https://docelowcarb.com.br/disqus/">
+        </amp-iframe>
 	{% endif %}
       </div>
     </div>
