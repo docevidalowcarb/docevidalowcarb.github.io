@@ -5,6 +5,7 @@ categories:
   - Receitas
 date: 2018-12-03 00:00:00
 featured_image: /uploads/quiche-low-carb-bacon-alho-poro.jpg
+image_description: quiche low carb de alho poró com bacon
 recipe:
   servings: '4'
   prep: 15min
