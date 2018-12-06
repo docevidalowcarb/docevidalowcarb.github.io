@@ -62,8 +62,10 @@ body {
 .site-header {
   position: relative;
   width: 100%;
-  max-width: 1100px;
+ // max-width: 1100px;
   margin: 16px auto 0 auto;
+  text-align: center;
+  padding: 80px 0 60px 0;
   @include box-sizing(border-box);
   @include respond-to(800) {
     padding: 0 $rs * 1;
@@ -520,11 +522,6 @@ pre {
 
 .pagination .disabled {
     opacity: 0;
-}
-
-header {
-	text-align: center;
-	padding: 80px 0 60px 0;
 }
 
 nav {
