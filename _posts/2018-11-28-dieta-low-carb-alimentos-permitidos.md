@@ -81,6 +81,9 @@ Ao invés de encher o prato de arroz branco, por exemplo, você pode preparar um
 
 Quem disse que dieta zero carboidrato é só comer carne? Lasanha de berinjela e espaguete de abobrinha são só algumas de outras trocas deliciosas que você pode fazer dentro do seu cardápio por alimentos sem carboidratos.
 
-## Receita: Pão de Frigideira Low Carb
+## Assista: Pão de Frigideira Low Carb
 
 <amp-youtube data-videoid="UiMpHjmiKaQ" layout="responsive" width="480" height="270"></amp-youtube>
+
+## Receita Pão de Frigideira Low Carb
+
