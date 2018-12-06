@@ -1,4 +1,5 @@
-<div id="disqus_thread"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <div id="disqus_thread"></div>
 	<script>
 		var disqus_shortname = '{{ site.disqus_shortname }}';
 		var disqus_config = function () {
@@ -12,6 +13,6 @@
 			(d.head || d.body).appendChild(s);
 		})();
 	</script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-  
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
 
