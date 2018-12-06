@@ -126,11 +126,18 @@ layout: default-amp
     
     <h2>Veja também</h2>
       <p>Deliciosas receitas Low Carb</p>
-        {% for recipe in site.categories %}
-        
-         <p><a href="{{ recipe.url }}"><amp-img width="101" height="75" src="{{ recipe.featured_image }}"></amp-img><span>{{ recipe.title }}</span></a></p>
-        
-        {% endfor %}  
+      
+      {% for category in site.categories %}
+		<h2>{{ category[0] }}</h2>
+		<div class="recipes">
+			{% for recipe in category[1] %}
+				<div class="recipe">
+				    <amp-img width="101" height="75" src="{{ recipe.featured_image }}"></amp-img>
+					<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+				</div>
+			{% endfor %}
+		</div>
+	    {% endfor %}
         
     <h3>Deixe seu Comentário</h3> 
      <amp-facebook-comments width="486"
