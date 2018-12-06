@@ -1,4 +1,5 @@
 ---
+layout: post-amp
 title: 'Dieta Low Carb: Alimentos Permitidos'
 categories:
   - LowCarb
