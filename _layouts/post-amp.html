@@ -132,7 +132,7 @@ layout: default-amp
 			{% for receitas in site.categories %}
 			    {% if recipe.title != page.title %}
 				<div class="recipe">
-				    <li><amp-img width="101" height="75" src="{{ recipe.featured_image }}"></amp-img>
+				    <li><amp-img width="101" height="75" src="{{ post.featured_image }}"></amp-img>
 					<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a></li>
 				</div>
 				{% endif %}
