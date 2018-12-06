@@ -129,7 +129,7 @@ layout: default-amp
       
 		<div class="recipes">
 		    <ul>
-			{% for recipe in category[1] %}
+			{% for recipe in category %}
 			    {% if recipe.title != page.title %}
 				<div class="recipe">
 				    <li><amp-img width="101" height="75" src="{{ recipe.featured_image }}"></amp-img>
