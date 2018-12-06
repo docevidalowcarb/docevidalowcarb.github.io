@@ -11,7 +11,7 @@ layout: default-amp
       <a name="topofpage"></a>
       {{content}}
     
-    
+    {% if page.recipe.servings %}
     <ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>Serve: {{ page.recipe.servings }}</span></li>
 		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>Preparo: {{ page.recipe.prep }}</span></li>
@@ -29,7 +29,9 @@ layout: default-amp
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
 	</div>
+	{% endif %}
     </section>
+    
     <footer class="post-footer">
       <section class="share">
         <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}&via={{ site.twitter_username }}" target="_blank">
