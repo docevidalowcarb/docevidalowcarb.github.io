@@ -130,7 +130,7 @@ layout: default-amp
       {% for category in site.categories %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
-			{% for recipe in category[1] != page.title %}
+			{% for recipe.title in category[1] != page.title %}
 				<div class="recipe">
 				    <amp-img width="101" height="75" src="{{ recipe.featured_image }}"></amp-img>
 					<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
