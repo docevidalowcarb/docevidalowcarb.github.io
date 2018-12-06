@@ -67,6 +67,11 @@ layout: default-amp
 
           <p>
             <span>
+              {% if site.facebook_username %}
+                <a href="https://github.com/{{ site.github_username }}"><span class="icon icon--facebook">{% include icon-facebook.svg %}</span><span></span></span></a>
+              {% endif %}
+            </span>
+            <span>
               {% if site.github_username %}
                 <a href="https://github.com/{{ site.github_username }}"><span class="icon icon--github">{% include icon-github.svg %}</span><span></span></span></a>
               {% endif %}
