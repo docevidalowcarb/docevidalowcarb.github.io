@@ -83,4 +83,4 @@ Quem disse que dieta zero carboidrato é só comer carne? Lasanha de berinjela e
 
 ## Receita: Pão de Frigideira Low Carb
 
-<iframe width="460" height="280" src="https://www.youtube.com/embed/UiMpHjmiKaQ?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<amp-youtube data-videoid="UiMpHjmiKaQ" layout="responsive" width="480" height="270"></amp-youtube>
