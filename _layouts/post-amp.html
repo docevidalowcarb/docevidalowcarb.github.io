@@ -10,7 +10,7 @@ layout: default-amp
     <section class="post-content">
       <a name="topofpage"></a>
       {{content}}
-    </section>
+    
     
     <ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
@@ -29,7 +29,7 @@ layout: default-amp
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
 	</div>
-    
+    </section>
     <footer class="post-footer">
       <section class="share">
         <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}&via={{ site.twitter_username }}" target="_blank">
