@@ -130,7 +130,7 @@ layout: default-amp
 		{% for category in site.categories %}
 			{% for recipe in category[1] %}
 				<div class="recipe">
-					<a href="{{ recipe.url }}"<amp-img width="300" height="200" src="{{ recipe.featured_image }}"><span>{{ recipe.title }}</span></amp-img></a>
+					<a href="{{ recipe.url }}"><amp-img width="300" height="200" src="{{ recipe.featured_image }}"><span>{{ recipe.title }}</span></amp-img></a>
 				</div>
 			{% endfor %}
 	    {% endfor %}
