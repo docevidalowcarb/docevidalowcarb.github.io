@@ -90,6 +90,7 @@ body {
 
 }
 
+
 .blog-header {
   width: 100%;
   max-width: 700px;
@@ -519,4 +520,13 @@ pre {
 
 .pagination .disabled {
     opacity: 0;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: rgba(255,255,255,0.9);
+    z-index: 999;
 }
