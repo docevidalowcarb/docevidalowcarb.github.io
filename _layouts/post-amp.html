@@ -126,13 +126,10 @@ layout: default-amp
     
     <h2>Veja também</h2>
       <p>Deliciosas receitas Low Carb</p>
-      <amp-list width="300" height="75" layout="responsive">
-        <template type="amp-mustache">
         {% for recipe in site.categories %}    
           <a class="card related" href="{{recipe.url}}"><amp-img width="101" height="75" src="{{recipe.featured_image}}"></amp-img><span>{{recipe.title}}</span></a>
         {% endfor %}  
-        </template>
-      </amp-list>
+        
     <h3>Deixe seu Comentário</h3> 
      <amp-facebook-comments width="486"
   height="657"
