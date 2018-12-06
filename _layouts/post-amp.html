@@ -123,6 +123,13 @@ layout: default-amp
       </div>
       </div>
     </div>
+    <h2>Veja também</h2>
+      <p>Deliciosas receitas Low Carb</p>
+      <amp-list width="300" height="75" layout="responsive" src="">
+        <template type="amp-mustache">
+          <a class="card related" href="{{page.id}}"><amp-img width="101" height="75" src="{{featured_image}}"></amp-img><span>{{page.title}}</span></a>
+        </template>
+      </amp-list>
     <h3>Deixe seu Comentário</h3> 
      <amp-facebook-comments width="486"
   height="657"
