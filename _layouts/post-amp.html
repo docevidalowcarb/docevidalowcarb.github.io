@@ -127,9 +127,9 @@ layout: default-amp
     <h2>Veja também</h2>
       <p>Deliciosas receitas Low Carb</p>
         {% for recipe in site.categories %}
-        <ul>
-          <li><a href="{{ recipe.url }}"><amp-img width="101" height="75" src="{{ recipe.featured_image }}"></amp-img><span>{{ recipe.title }}</span></a></li>
-        </ul>
+        
+         <p><a href="{{ recipe.url }}"><amp-img width="101" height="75" src="{{ recipe.featured_image }}"></amp-img><span>{{ recipe.title }}</span></a></p>
+        
         {% endfor %}  
         
     <h3>Deixe seu Comentário</h3> 
