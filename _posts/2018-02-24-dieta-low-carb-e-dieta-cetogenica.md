@@ -1,4 +1,5 @@
 ---
+layout: post-amp
 published: true
 date: 2018-02-24 00:00:00
 title: Dieta Low Carb e Dieta Cetogênica
@@ -10,7 +11,7 @@ redirect_from: /2018/02/24/dieta-low-carb-e-dieta-cetogênica/
 
 Oi Pessoal! Hoje vou falar um pouquinho sobre a&nbsp;**Dieta Low Carb e Dieta Cetog&ecirc;nica**, e o que elas realmente representam na minha vida. Muitos podem pensar que uma ***dieta low carb cetog&ecirc;nica*** significa apenas uma dieta sem a&ccedil;&uacute;car ou sem carboidratos, mas ela &eacute; muito mais do que apenas tirar carboidratos, na verdade ela &eacute; a escolha dos “**bons carboidratos**” na alimenta&ccedil;&atilde;o, um novo estilo de vida que aceita de forma natural os nutrientes que s&atilde;o necess&aacute;rios em qualquer dieta alimentar.
 
-![](/uploads/versions/dieta-low-cabr-estilo-vida-saudavel-1---x----1560-1049x---.jpg)
+<amp-img width="600" height="300" layout="responsive" src="/uploads/versions/dieta-low-cabr-estilo-vida-saudavel-1---x----1560-1049x---.jpg"></amp-img>
 
 ## Dieta Low carb n&atilde;o &eacute; Dieta Cetog&ecirc;nica
 
@@ -26,7 +27,7 @@ O que eu mais tenho falado para colegas que acompanham dietas low carb &eacute; 
 
 Isso de forma alguma significa que uma dieta cetog&ecirc;nica &eacute; melhor do que dietas low carb. Na verdade outras dietas low carb podem ser at&eacute; mais completas em valores nutricionais, mas isso sempre depender&aacute; do consumo de alimentos saud&aacute;veis, ou seja, tamb&eacute;m depender&aacute; de boas escolhas. Mas em rela&ccedil;&atilde;o a perda de peso, uma [dieta cetog&ecirc;nica n&atilde;o &eacute; condi&ccedil;&atilde;o necess&aacute;ria para esse objetivo](http://www.lowcarb-paleo.com.br/2017/10/cetose.html), pois uma dieta low carb com boas escolhas por alimentos saud&aacute;veis tamb&eacute;m ter&aacute; a perda de peso como consequ&ecirc;ncia.
 
-![](/uploads/versions/prato-low-carb-cetogenica-verduras-legumes---x----1560-870x---.jpg)
+<amp-img width="600" height="300" layout="responsive" src="/uploads/versions/prato-low-carb-cetogenica-verduras-legumes---x----1560-870x---.jpg"></amp-img>
 
 ## Dieta Low Carb &eacute; estilo de vida
 
@@ -34,7 +35,7 @@ Quando eu falo que dieta low carb &eacute; estilo de vida &eacute; porque &eacut
 
 Quando me perguntam se eu entrei nessa Dieta Low Carb s&oacute; para obter bons resultados na perda de peso, minha resposta &eacute; objetiva: “n&atilde;o quero morrer antes dos 50”, ent&atilde;o obviamente quero uma mudan&ccedil;a de vida a longo prazo, e n&atilde;o apenas perder peso para entrar em um vestido de festa. Quero uma mudan&ccedil;a de dentro para fora, que a perda de peso seja apenas uma consequ&ecirc;ncia de uma vida mais saud&aacute;vel e que essa vida saud&aacute;vel seja resultado de boas escolhas.
 
-![](/uploads/versions/20180219-130847-1---x----1560-1170x---.jpg)
+<amp-img width="600" height="300" layout="responsive" src="/uploads/versions/20180219-130847-1---x----1560-1170x---.jpg"></amp-img>
 
 Vou aproveitar para deixar nesse post um v&iacute;deo muito legal do Dr. Berg, falando sobre os efeitos de longo prazo de uma dieta Low carb. Nesse v&iacute;deo ele fala sobre a necessidade dos carboidratos provenientes de vegetais, n&atilde;o porque voc&ecirc; precisa desses carboidratos, mas porque voc&ecirc; precisa das vitaminas e minerais que esses alimentos oferecem. Ele tamb&eacute;m esclarece algumas d&uacute;vidas em rela&ccedil;&atilde;o a tire&oacute;ide na dieta low carb, e os benef&iacute;cios de se manter em uma dieta low carb.
 
