@@ -7,6 +7,7 @@ google_analytics_key: "UA-114647994-1"
 email: fabiola.analytics@gmail.com
 newsletter_action: 
 disqus_shortname: docevidalowcarb
+analytics_id: "UA-114647994-1"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
