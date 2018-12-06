@@ -68,7 +68,7 @@ layout: default-amp
           <p>
             <span>
               {% if site.instagram_username %}
-                <a href="https://github.com/{{ site.github_username }}">{% include social-icon.html icon="Instagram" %}</a>
+                <a href="https://github.com/{{ site.instagram_username }}">{% include social-icon.html icon="Instagram" %}</a>
               {% endif %}
             </span>
             <span>
@@ -79,6 +79,11 @@ layout: default-amp
             <span>
               {% if site.twitter_username %}
                 <a href="https://twitter.com/{{ site.twitter_username }}">{% include social-icon.html icon="Twitter" %}</a>
+              {% endif %}
+            </span>
+            <span>
+              {% if site.pinterest_username %}
+                <a href="https://twitter.com/{{ site.pinterest_username }}">{% include social-icon.html icon="Pinterest" %}</a>
               {% endif %}
             </span>
           </p>
