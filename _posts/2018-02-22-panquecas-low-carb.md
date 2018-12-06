@@ -44,7 +44,7 @@ Gente, preparar a **panqueca low carb** é muito fácil mesmo! Você não precis
 
 Para fazer as panquecas low carb eu costumo usar o Soya Protein Powder da Pulsin, que é uma proteína isolada de soja usada para shakes, mas no Brasil não sei se você encontra facilmente,  então se você não encontrar você pode usar a **Fibra de Soja da Yoki** ou **Fibra de Soja da Vitao**,  ambas são boas, já usei das duas marcas e sempre deram certo, a diferença com a proteína de soja isolada é o sabor que não é tão forte, então eu prefiro usar da Pulsin que é sem sabor.
 
-![](/uploads/versions/soya-all-3-sizes-web---x----600-451x---.png)
+<amp-img width="600" height="300" layout="responsive" src="/uploads/versions/soya-all-3-sizes-web---x----600-451x---.png"></amp-img>
 
 > **Dica:** Existem outros produtos com proteína isolada, como Whey Protein (leite), Pea Protein (ervilha), se você optar por qualquer um desses para usar nas suas receitas, é importante ficar de olho no **valor nutricional do produto** que você escolher, porque muitos deles possuem adição de açúcares. Mas tanto a proteína de soja quanto a fibra de soja tem menos de 1g de carboidrato para cada colher de sopa e são bem mais acessíveis.
 
@@ -52,11 +52,11 @@ Para fazer as panquecas low carb eu costumo usar o Soya Protein Powder da Pulsin
 
 Você pode fazer essa receita com panquecas pequenas, médias ou grandes. Eu adoro fazer grande para comer como wrap recheado com salada e ovo :)
 
-![](/uploads/versions/panqueca-low-carb-grande-sem-farinha---x----1560-877x---.jpg)
+<amp-img width="600" height="300" layout="responsive" src="/uploads/versions/panqueca-low-carb-grande-sem-farinha---x----1560-877x---.jpg"></amp-img>
 
 Ou então você pode fazer no café do tarde para comer com presunto, ou simplesmente com uma manteiguinha por cima que também fica uma delícia!
 
-![](/uploads/versions/panqueca-low-carb-com-manteiga---x----1560-877x---.jpg)
+<amp-img width="600" height="300" layout="responsive" src="/uploads/versions/panqueca-low-carb-com-manteiga---x----1560-877x---.jpg"></amp-img>
 
 Ou você pode simplesmente usar a receita para fazer sua panqueca recheada com carne moída ou frango, que sempre fica maravilhoso!
 
