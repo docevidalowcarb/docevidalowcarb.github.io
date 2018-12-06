@@ -554,7 +554,7 @@ nav {
 /* REVIEWS RATINGS */
 
   .rating {
-    --star-size: 3;  /* use CSS variables to calculate dependent dimensions later */
+    --star-size: 5;  /* use CSS variables to calculate dependent dimensions later */
     padding: 0;  /* to prevent flicker when mousing over padding */
     border: none;  /* to prevent flicker when mousing over border */
     unicode-bidi: bidi-override; direction: rtl;  /* for CSS-only style change on hover */
