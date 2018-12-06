@@ -561,7 +561,7 @@ nav {
     text-align: left;  /* revert the RTL direction */
     user-select: none;  /* disable mouse/touch selection */
     font-size: 3em;  /* fallback - IE doesn't support CSS variables */
-    font-size: calc(var(--star-size) * 1em);  /* because `var(--star-size)em` would be too good to be true */
+    font-size: calc(var(--star-size) * 2em);  /* because `var(--star-size)em` would be too good to be true */
     cursor: pointer;
     /* disable touch feedback on cursor: pointer - http://stackoverflow.com/q/25704650/1269037 */
     -webkit-tap-highlight-color: rgba(0,0,0,0);
