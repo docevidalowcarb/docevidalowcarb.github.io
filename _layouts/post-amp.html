@@ -132,8 +132,8 @@ layout: default-amp
 			{% for recipe in category[1] %}
 			    {% if recipe.title != page.title %}
 				<div class="recipe">
-				    <amp-img width="101" height="75" src="{{ recipe.featured_image }}"></amp-img>
-					<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+				    <li><amp-img width="101" height="75" src="{{ recipe.featured_image }}"></amp-img>
+					<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a></li>
 				</div>
 				{% endif %}
 			{% endfor %}
