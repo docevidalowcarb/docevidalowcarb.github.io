@@ -70,6 +70,12 @@ defaults:
     values:
       layout: "default"
       push_sidebar_down: true
+-
+    scope:
+      path: "amp.html"
+    values:
+      layout: "amp-home"
+     
 
 compress_images:
   images_path: "images/**/*.{gif,png,jpg,jpeg,svg}"
