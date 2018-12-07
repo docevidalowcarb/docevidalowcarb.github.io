@@ -4,11 +4,24 @@ categories:
 date:
 featured_image: /uploads/low-carb-high-fat.jpg
 recipe:
-  servings:
-  prep:
-  cook:
-  ingredients_markdown:
-  directions_markdown:
+  servings: 3 pães
+  prep: 5min
+  cook: 10min
+  ingredients_markdown: |-
+    1 ovo grande
+
+    2 colheres de sopa de farinha de am&ecirc;ndoas
+
+    50g de queijo
+
+    Sal a gosto
+
+    Opcional: 1 colherzinha de fermento em p&oacute;
+  directions_markdown: >-
+    Misture tudo com um garfo deixando o fermento por &uacute;ltimo, despeje a
+    massa em uma frigideira untada com um pouquinho de azeite e frite em fogo
+    m&eacute;dio. Quando estiver firme, vire como faria com uma panqueca e frite
+    do outro lado at&eacute; ambos estarem douradinhos.
 ---
 
 Ol&aacute; Pessoal! Muita gente me pergunta sobre a **dieta low carb high fat** e qual a diferen&ccedil;a da tradicional low carb que todos conhecemos. Bom na verdade o pr&oacute;prio nome j&aacute; explica um pouco que a low carb high fat, ou LCHF como a maioria chama, trata-se de uma low carb com um alto consumo de gordura boas. A diferen&ccedil;a entre elas est&aacute; basicamente no **card&aacute;pio da low carb.&nbsp;**
@@ -16,6 +29,8 @@ Ol&aacute; Pessoal! Muita gente me pergunta sobre a **dieta low carb high fat** 
 A Dieta Low Carb High Fat tem um card&aacute;pio com consumo reduzido de carboidratos, ainda mais reduzido que a pr&oacute;pria low carb, mas n&atilde;o chegando ainda a ser uma cetog&ecirc;nica, e isso acontece devido ao aumento do consumo de gorduras, que normalmente voc&ecirc; deve optar pelas boa: abacate, am&ecirc;ndoas, castanhas, &oacute;leo de c&ocirc;co, azeites, manteiga de verdade, entre outros. &nbsp;
 
 Para aumentar o consumo de gorduras, quando fazemos uma distribui&ccedil;&atilde;o dos macros nutrientes, como prote&iacute;na, gorduras e carboidratos, ent&atilde;o precisamos diminuir o consumo de carboidratos e at&eacute; prote&iacute;nas, para equilibrar essa balan&ccedil;a. Mas essa distribui&ccedil;&atilde;o cada pessoa tem a sua, normalmente depende de fatores como taxa metab&oacute;lica, peso, idade, etc.
+
+![](/uploads/castanhas-low-carb-high-fat.jpg)
 
 > A melhor pessoa para fazer essa an&aacute;lise e distribui&ccedil;&atilde;o de macros &eacute; seu m&eacute;dico e nutricionista. E se voc&ecirc; quiser ler mais a respeito desse assunto deixo aqui um [v&iacute;deo](https://www.youtube.com/watch?v=vB2EtclQLRA){: target="_blank"} interessante.
 
@@ -45,7 +60,7 @@ Para n&atilde;o errar na hora de come&ccedil;ar a LCHF e acertar em cheio nas qu
 
 ### Caf&eacute; da manh&atilde; low carb high fat
 
-* P&atilde;o de queijo low carb high fat para caf&eacute; da manh&atilde;
+* [P&atilde;o de queijo low carb high fat para caf&eacute; da manh&atilde;](https://www.youtube.com/watch?v=c0Ynn48gUiM){: target="_blank"}
 * Omelete, Ovos mexidos e outros preparos com ovos,
 * Iogurtes naturais sem a&ccedil;&uacute;car
 * Saladinha de abacate com am&ecirc;ndoas e nozes.
@@ -64,30 +79,22 @@ Para n&atilde;o errar na hora de come&ccedil;ar a LCHF e acertar em cheio nas qu
 * [P&atilde;o de frigideira low carb high fat](https://www.youtube.com/watch?v=UiMpHjmiKaQ){: target="_blank"}
 * [P&atilde;o de queijo low carb high fat para caf&eacute; da tarde](https://www.youtube.com/watch?v=c0Ynn48gUiM){: target="_blank"}
 
-Jantar low carb high fat
+### Jantar low carb high fat
 
 No jantar voc&ecirc; pode repetir as op&ccedil;&otilde;es de almo&ccedil;o, mas tome cuidado com o tamanho das por&ccedil;&otilde;es, principalmente da prote&iacute;na e dos vegetais.
 
-P&atilde;o low carb high fat
+&nbsp;
+
+## [RECEITA] P&atilde;o Low Carb High Fat
 
 E como acontece em qualquer dieta de longo prazo, voc&ecirc; vai ver que &eacute; preciso fazer algumas adapta&ccedil;&otilde;es no card&aacute;pio para n&atilde;o correr o risco de cair em tenta&ccedil;&atilde;o.
 
 Apostar em receitinhas &eacute; a melhor op&ccedil;&atilde;o, como esse p&atilde;o low carb f&aacute;cil de fazer mesmo para quem n&atilde;o manja muito de cozinha
 
-Receita de p&atilde;o low carb high fat de frigideira
+## ![](/uploads/pao-low-carb-high-fat.jpg)
 
-1 ovo grande
+## &nbsp;
 
-1 colher de sopa de farinha de am&ecirc;ndoas
+## [Receita] P&atilde;o low carb high fat de frigideira
 
-1 colher de sopa de farinha de linha&ccedil;a
-
-&Aacute;gua se precisar
-
-Sal a gosto
-
-1 colher de caf&eacute; de fermento em p&oacute;
-
-Misture tudo com um garfo deixando o fermento por &uacute;ltimo, despeje a massa em uma frigideira untada com um pouquinho de azeite e frite em fogo m&eacute;dio. Quando estiver firme, vire como faria com uma panqueca e frite do outro lado at&eacute; ambos estarem douradinhos.
-
-E para garantir que a Dieta Low Carb High Fat d&ecirc; os resultados esperados, &eacute; preciso tomar alguns cuidados. Voc&ecirc; precisa saber, por exemplo, quais os tipos de gordura consumir, neste caso d&ecirc; sempre prefer&ecirc;ncia para as gorduras boas e naturais, como as encontradas em nozes e abacate, por exemplo.<br><br><br>&nbsp;
+<br><br><br>&nbsp;
