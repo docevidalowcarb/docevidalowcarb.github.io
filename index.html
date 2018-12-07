@@ -9,7 +9,7 @@ title: Receitas Low Carb
     {% for post in paginator.posts %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
         <div class="article-item">
-        <amp-img src="{{ post.featured_image }}" alt="{{ post.title }}" width="600" height="400"></amp-img>
+        <amp-img src="{{ post.featured_image }}" alt="{{ post.title }}" layout="responsive" width="600" height="400"></amp-img>
           <header class="post-header">
             <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
           </header>
