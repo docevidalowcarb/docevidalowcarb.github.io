@@ -56,39 +56,28 @@ Na verdade a dieta LCHF facilita a perda de peso, porque a baixa ingestão de ca
 Então por experiência eu posso dizer que a low carb high fat emagrece! Todo mundo que se compromete com uma mudança de cardápio, abraça as substituições e transforma a maneira que come, consegue ver resultados bem rápido. Eu enquanto estava rigorosamente na LCHF perdí em torno de 12 kilos em 3 meses, mas depois fui readaptando a dieta dentro da Low Carb, e ainda assim perdí mais 11 kilos nos outros 5 meses. **Lembrando que antes de começar qualquer dieta devemos consultar um médico especialista.**
 
 ## Low Carb high Fat Cardápio
-
 Para não errar na hora de começar a LCHF e acertar em cheio nas quantidades e atingir seu objetivo, é bom procurar seguir um bom cardápio low carb high fat, como algumas sugestões que separei aqui:
-
 ### Café da manhã LCHF
-
 * [Pão de queijo low carb high fat para café da manhã](https://www.youtube.com/watch?v=c0Ynn48gUiM){: target="_blank"}
 * Omelete, Ovos mexidos e outros preparos com ovos,
 * Iogurtes naturais sem açúcar
 * Saladinha de abacate com amêndoas e nozes.
 * Você pode também fazer uma panqueca low carb recheada com abacate e ovos cozinhos. Fica maravilhoso!
-
 ### Almoço low carb high fat
-
 * Salada fresca com sementes de girassol e chia regado com azeite de oliva
 * Proteína da sua preferência, pode ser um peixe, frango ou até carne bovina 
 * Vegetais na manteiga.
 * Salada de ovos com abacate
 * Maionese caseira
-
 ### Lanche da tarde
-
 * [Pão de frigideira low carb high fat](https://www.youtube.com/watch?v=UiMpHjmiKaQ){: target="_blank"}
 * [Pão de queijo low carb high fat para café da tarde](https://www.youtube.com/watch?v=c0Ynn48gUiM){: target="_blank"}
-
 ### Jantar LCHF
-
 No jantar você pode repetir as opções de almoço, mas tome cuidado com o tamanho das porções, principalmente da proteína e dos vegetais.
-
+## [Vídeo] Pão de Queijo Low Carb High Fat
+<amp-youtube data-videoid="c0Ynn48gUiM" layout="responsive" width="480" height="270"></amp-youtube>
 ## [RECEITA] Pão Low Carb High Fat
 
 E como acontece em qualquer dieta de longo prazo, você vai ver que é preciso fazer algumas adaptações no cardápio para não correr o risco de cair em tentação.
 
 Apostar em receitinhas é a melhor opção, como esse pão low carb fácil de fazer mesmo para quem não manja muito de cozinha
-
-## [Vídeo] Pão de Queijo Low Carb High Fat
-<amp-youtube data-videoid="c0Ynn48gUiM" layout="responsive" width="480" height="270"></amp-youtube>
