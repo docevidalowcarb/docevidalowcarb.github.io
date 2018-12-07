@@ -93,5 +93,3 @@ Apostar em receitinhas é a melhor opção, como esse pão low carb fácil de fa
 <amp-img width="600" height="300" layout="responsive" src="/uploads/pao-low-carb-high-fat.jpg"></amp-img>
 
 ## [Receita] Pão low carb high fat de frigideira
-
-<br><br><br>
