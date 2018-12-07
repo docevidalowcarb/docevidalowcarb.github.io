@@ -51,7 +51,7 @@ Além é claro de fazer todas aquelas substituições e contar com receitinhas f
 
 Como sou seguidora dessa dieta, não vou mentir que quem está tentando perder alguns (ou vários) quilinhos, a Dieta Low Carb High Fat pode ser uma grande aliada.Mas claro que isso depende de vários fatores na dieta LCHF, que vai desde a quantidade e qualidade de alimentos ingeridos, até a quantidade de peso que você realmente precisa perder.
 
-Na verdade a dieta LCHF facilita a perda de peso, porque a baixa ingestão de carboidratos e alto consumo de gorduras boas pode trazer uma saciedade maior ao longo do dia, o que acaba diminuindo também a ingestão de comida. Isso já foi [demonstrado em alguns estudos](https://www.ncbi.nlm.nih.gov/pubmed/26768850){: target="_blank"} onde as pessoas eram liberadas para tudo a vontade em uma dieta low carb, no final a quantidade de calorias ingeridas era relativamente menor quando em outras dietas.
+Na verdade a dieta LCHF facilita a perda de peso, porque a baixa ingestão de carboidratos e alto consumo de gorduras boas pode trazer uma saciedade maior ao longo do dia, o que acaba diminuindo também a ingestão de comida. Isso já foi [demonstrado em alguns estudos](https://www.ncbi.nlm.nih.gov/pubmed/26768850){: target="_blank"} onde as pessoas eram liberadas para comer tudo à vontade em uma dieta low carb, no final a quantidade de calorias ingeridas era relativamente menor do que quando são liberadas em outras dietas.
 
 Então por experiência eu posso dizer que a low carb high fat emagrece! Todo mundo que se compromete com uma mudança de cardápio, abraça as substituições e transforma a maneira que come, consegue ver resultados bem rápido. *Mas claro que antes de começar qualquer dieta devemos consultar um médico especialista.*
 
