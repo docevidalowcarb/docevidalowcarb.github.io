@@ -672,11 +672,6 @@ nav {
 	padding: 70px 0 0 0;
 	margin: 0 auto;
 
-	@media #{$desktop} {
-		margin: 0;
-		padding: 0 0 0 70px;
-	}
-
 	.author {
 		text-align: center;
 		p {
