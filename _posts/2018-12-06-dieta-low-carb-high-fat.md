@@ -59,7 +59,7 @@ Então por experiência eu posso dizer que a low carb high fat emagrece! Todo mu
 
 Para não errar na hora de começar a LCHF e acertar em cheio nas quantidades e atingir seu objetivo, é bom procurar seguir um bom cardápio low carb high fat, como algumas sugestões que separei aqui:
 
-### Café da manhã low carb high fat
+### Café da manhã LCHF
 
 * [Pão de queijo low carb high fat para café da manhã](https://www.youtube.com/watch?v=c0Ynn48gUiM){: target="_blank"}
 * Omelete, Ovos mexidos e outros preparos com ovos,
@@ -75,12 +75,12 @@ Para não errar na hora de começar a LCHF e acertar em cheio nas quantidades e 
 * Salada de ovos com abacate
 * Maionese caseira
 
-### Lanche da tarde low carb high fat
+### Lanche da tarde
 
 * [Pão de frigideira low carb high fat](https://www.youtube.com/watch?v=UiMpHjmiKaQ){: target="_blank"}
 * [Pão de queijo low carb high fat para café da tarde](https://www.youtube.com/watch?v=c0Ynn48gUiM){: target="_blank"}
 
-### Jantar low carb high fat
+### Jantar LCHF
 
 No jantar você pode repetir as opções de almoço, mas tome cuidado com o tamanho das porções, principalmente da proteína e dos vegetais.
 
