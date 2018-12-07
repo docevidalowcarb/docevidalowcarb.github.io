@@ -90,6 +90,4 @@ E como acontece em qualquer dieta de longo prazo, você vai ver que é preciso f
 
 Apostar em receitinhas é a melhor opção, como esse pão low carb fácil de fazer mesmo para quem não manja muito de cozinha
 
-<amp-img width="600" height="300" layout="responsive" src="/uploads/pao-low-carb-high-fat.jpg"></amp-img>
-
-## [Receita] Pão low carb high fat de frigideira
+## [Vídeo] Pão de queijo Low Carb High Fat
