@@ -42,41 +42,6 @@ collections:
   stories:
     output: true      
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      push_sidebar_down: true
-      print_stylesheet: true
-      comments: true
-      _options:
-        content:
-          width: 1560
-          height: 2000
-        featured_image:
-          width: 1560
-          height: 2000
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "index.html"
-    values:
-      layout: "default"
-      push_sidebar_down: true
-  -
-    scope:
-      path: "amp.html"
-    values:
-      layout: "home-amp"
-     
-
 compress_images:
   images_path: "images/**/*.{gif,png,jpg,jpeg,svg}"
   
