@@ -84,8 +84,6 @@ Para não errar na hora de começar a LCHF e acertar em cheio nas quantidades e 
 
 No jantar você pode repetir as opções de almoço, mas tome cuidado com o tamanho das porções, principalmente da proteína e dos vegetais.
 
- 
-
 ## [RECEITA] Pão Low Carb High Fat
 
 E como acontece em qualquer dieta de longo prazo, você vai ver que é preciso fazer algumas adaptações no cardápio para não correr o risco de cair em tentação.
