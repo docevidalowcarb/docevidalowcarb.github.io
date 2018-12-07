@@ -31,7 +31,7 @@ A Dieta Low Carb High Fat tem um cardápio com consumo reduzido de carboidratos,
 
 Para aumentar o consumo de gorduras, quando fazemos uma distribuição dos macros nutrientes, como proteína, gorduras e carboidratos, então precisamos diminuir o consumo de carboidratos e até proteínas, para equilibrar essa balança. Mas essa distribuição cada pessoa tem a sua, normalmente depende de fatores como taxa metabólica, peso, idade, etc.
 
-![](/uploads/castanhas-low-carb-high-fat.jpg)
+<amp-img width="600" height="300" layout="responsive" src="/uploads/castanhas-low-carb-high-fat.jpg"></amp-img>
 
 > A melhor pessoa para fazer essa análise e distribuição de macros é seu médico e nutricionista. E se você quiser ler mais a respeito desse assunto deixo aqui um [vídeo](https://www.youtube.com/watch?v=vB2EtclQLRA){: target="_blank"} interessante.
 
@@ -92,9 +92,7 @@ E como acontece em qualquer dieta de longo prazo, você vai ver que é preciso f
 
 Apostar em receitinhas é a melhor opção, como esse pão low carb fácil de fazer mesmo para quem não manja muito de cozinha
 
-## ![](/uploads/pao-low-carb-high-fat.jpg)
-
-##  
+<amp-img width="600" height="300" layout="responsive" src="/uploads/pao-low-carb-high-fat.jpg"></amp-img>
 
 ## [Receita] Pão low carb high fat de frigideira
 
