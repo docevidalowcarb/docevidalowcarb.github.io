@@ -70,11 +70,11 @@ defaults:
     values:
       layout: "default"
       push_sidebar_down: true
--
+  -
     scope:
       path: "amp.html"
     values:
-      layout: "amp-home"
+      layout: "home-amp"
      
 
 compress_images:
