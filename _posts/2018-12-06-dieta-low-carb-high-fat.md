@@ -1,4 +1,5 @@
 ---
+layout: post-amp
 title: 'Dieta low carb high fat, tudo que você precisa saber'
 categories:
 date:
