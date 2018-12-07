@@ -4,7 +4,6 @@ title: AMP
 date: 2018-12-05 00:00:00
 ---
 <main class="content" role="main">
-  <section class="posts">
 	{% for post in paginator.posts %}
 		<article class="post">
 			{% include post-heading.html post=post %}
@@ -31,5 +30,4 @@ date: 2018-12-05 00:00:00
 			{% endif %}
 		</div>
 	{% endif %}
- </section>
 </main>
