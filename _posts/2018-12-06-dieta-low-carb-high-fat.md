@@ -27,7 +27,7 @@ recipe:
 
 Olá Pessoal! Muita gente me pergunta sobre a **dieta low carb high fat** e qual a diferença da tradicional low carb que todos conhecemos. Bom na verdade o próprio nome já explica um pouco que a low carb high fat, ou LCHF como a maioria chama, trata-se de uma low carb com um alto consumo de gordura boas. A diferença entre elas está basicamente no **cardápio da low carb. **
 
-A Dieta Low Carb High Fat tem um cardápio com consumo reduzido de carboidratos, ainda mais reduzido que a própria low carb, mas não chegando ainda a ser uma cetogênica, e isso acontece devido ao aumento do consumo de gorduras, que normalmente você deve optar pelas boa: abacate, amêndoas, castanhas, óleo de côco, azeites, manteiga de verdade, entre outros.  
+A Dieta Low Carb High Fat tem um cardápio com consumo reduzido de carboidratos, ainda mais reduzido que a própria low carb, mas não chegando ainda a ser uma cetogênica, e isso acontece devido ao aumento do consumo de gorduras, que normalmente você deve optar pelas boas: abacate, amêndoas, castanhas, óleo de côco, azeites, manteiga de verdade, entre outros.  
 
 Para aumentar o consumo de gorduras, quando fazemos uma distribuição dos macros nutrientes, como proteína, gorduras e carboidratos, então precisamos diminuir o consumo de carboidratos e até proteínas, para equilibrar essa balança. Mas essa distribuição cada pessoa tem a sua, normalmente depende de fatores como taxa metabólica, peso, idade, etc.
 
