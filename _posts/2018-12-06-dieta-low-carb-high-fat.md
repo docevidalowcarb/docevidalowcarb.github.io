@@ -76,8 +76,7 @@ Para não errar na hora de começar a LCHF e acertar em cheio nas quantidades e 
 * [Pão de queijo low carb high fat para café da tarde](https://www.youtube.com/watch?v=c0Ynn48gUiM){: target="_blank"}
 
 ### Jantar LCHF
-*No jantar você pode repetir as opções de almoço, mas tome cuidado com o tamanho das porções, principalmente da proteína e dos vegetais.
-
+No jantar você pode repetir as opções de almoço, mas tome cuidado com o tamanho das porções, principalmente da proteína e dos vegetais.
 ## [Vídeo] Pão de Queijo Low Carb High Fat
 <amp-youtube data-videoid="c0Ynn48gUiM" layout="responsive" width="480" height="270"></amp-youtube>
 ## [RECEITA] Pão Low Carb High Fat
