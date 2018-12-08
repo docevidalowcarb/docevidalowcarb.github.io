@@ -110,6 +110,11 @@ body {
     line-height: 50px;
     word-break: break-word;
     color: #333333;
+    h1 {
+        text-transform: uppercase;
+        letter-spacing: 0px;
+        font-size: 20px;
+    }
   }
   .blog-description {
     font-size: 28px;
