@@ -12,7 +12,7 @@ title: Receitas Low Carb
         <header class="post-header">
             <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
         </header>
-        <amp-img src="{{ post.featured_image }}" alt="{{ post.title }}" layout="responsive" width="600" height="400"></amp-img>
+        <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url"><amp-img src="{{ post.featured_image }}" alt="{{ post.title }}" layout="responsive" width="600" height="400"></amp-img></a>
           <section class="post-excerpt" itemprop="description">
             <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
           </section>
