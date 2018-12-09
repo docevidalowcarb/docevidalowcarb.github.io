@@ -2,6 +2,8 @@
 layout: post-amp
 title: 'Dieta Low Carb High Fat, o que você precisa saber'
 categories:
+  - lowcarb
+  - dicas
 date: 2018-12-06 00:00:00
 featured_image: /uploads/low-carb-high-fat.jpg
 recipe:
