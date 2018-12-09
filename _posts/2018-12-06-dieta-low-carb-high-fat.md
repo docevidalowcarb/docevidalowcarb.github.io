@@ -6,6 +6,8 @@ categories:
   - dicas
 date: 2018-12-06 00:00:00
 featured_image: /uploads/low-carb-high-fat.jpg
+redirect_from:
+  - /2018/12/06/dieta-low-carb-high-fat/
 recipe:
   servings: 3 pães
   prep: 5min
