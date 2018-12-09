@@ -90,7 +90,7 @@ layout: default-amp
     
     <h3>Leia Também</h3>
     <ul class="related_posts">
-        {% for categories in post.categories.receitas limit: 3 %}
+        {% for post in site.categories.receitas limit: 3 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
