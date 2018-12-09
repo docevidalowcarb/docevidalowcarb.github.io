@@ -11,7 +11,7 @@ categories:
 featured_image: /uploads/panqueca-low-carb-de-soja.jpg
 tags: panquecas, low carb, receitas
 redirect_from:
-  - https://docelowcarb.com.br/panquecas/2018/02/22/panquecas-low-carb/
+  - /panquecas/2018/02/22/panquecas-low-carb/
 recipe:
   servings: 2 panquecas médias / 4 panquecas pequenas
   prep: 15 minutos
