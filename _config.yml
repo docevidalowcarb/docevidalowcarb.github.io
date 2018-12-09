@@ -2,7 +2,7 @@
 # Site
 title: Doce Low Carb
 url: "https://docelowcarb.com.br"
-baseurl: "https://docelowcarb.com.br"
+baseurl: ""
 google_analytics_key: "UA-114647994-1"
 email: fabiola.analytics@gmail.com
 newsletter_action: 
