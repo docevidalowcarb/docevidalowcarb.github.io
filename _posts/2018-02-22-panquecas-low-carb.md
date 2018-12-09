@@ -6,6 +6,7 @@ title: '[Receita] Panquecas Low Carb Fáceis de Fazer'
 categories:
   - Panquecas
 featured_image: /uploads/panqueca-low-carb-de-soja.jpg
+tags: panquecas, low carb, receitas
 recipe:
   servings: 2 panquecas médias / 4 panquecas pequenas
   prep: 15 minutos
