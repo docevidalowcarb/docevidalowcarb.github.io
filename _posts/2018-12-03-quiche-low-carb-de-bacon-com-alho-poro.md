@@ -12,6 +12,9 @@ tags:
   - bacon
   - alho poro
 date: 2018-12-03 00:00:00
+redirect_from:
+  - /receitas/2018/12/03/quiche-low-carb-de-bacon-com-alho-poro/
+  - /2018/12/03/quiche-low-carb-de-bacon-com-alho-poro/
 featured_image: /uploads/quiche-low-carb-bacon-alho-poro.jpg
 image_description: quiche low carb de alho poró com bacon
 recipe:
