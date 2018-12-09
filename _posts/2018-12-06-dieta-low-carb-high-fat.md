@@ -6,6 +6,7 @@ categories:
   - dicas
 date: 2018-12-06 00:00:00
 featured_image: /uploads/low-carb-high-fat.jpg
+image_description: alimentos low carb high fat para dieta LCHF
 redirect_from:
   - /2018/12/06/dieta-low-carb-high-fat/
 recipe:
