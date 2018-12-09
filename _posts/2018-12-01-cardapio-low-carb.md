@@ -31,7 +31,7 @@ Afinal &eacute; importante lembrar que mesmo em uma dieta com baixa ingest&atild
 
 ## Meu card&aacute;pio low carb para emagrecer
 
-Quando iniciamos uma dieta, &eacute; normal ter d&uacute;vidas do que podemos ou n&atilde;o comer, principalmente depois de alguns dias, quando parece que estamos repetindo e repetindo os mesmos alimentos. Mas existe uma infinidade de [alimentos permitidos na low carb](/lowcarb/2018/11/28/dieta-low-carb-alimentos-permitidos/){: target="_blank"}, ainda n&atilde;o descobriu eles? Continua que chegaremos l&aacute;.
+Quando iniciamos uma dieta, &eacute; normal ter d&uacute;vidas do que podemos ou n&atilde;o comer, principalmente depois de alguns dias, quando parece que estamos repetindo e repetindo os mesmos alimentos. Mas existe uma infinidade de [alimentos permitidos na low carb](/dieta-low-carb-alimentos-permitidos/){: target="_blank"}, ainda n&atilde;o descobriu eles? Continua que chegaremos l&aacute;.
 
 Para n&atilde;o cair nessa tenta&ccedil;&atilde;o e acabar saindo da dieta, &eacute; importante conhecer o maior n&uacute;mero de alimentos diferentes para diversificar o card&aacute;pio na nossa dieta low carb e se manter firme para alcan&ccedil;ar o objetivos.
 
