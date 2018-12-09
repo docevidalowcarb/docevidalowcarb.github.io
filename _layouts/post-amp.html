@@ -88,13 +88,12 @@ layout: default-amp
       </section>
     </footer>
     
-    <blockquote><h3>Leia Também</h3>
+    <h3>Leia Também</h3>
     <ul class="related_posts">
-        {% for tags in post.tags limit: 3 %}
+        {% for categories in post.categories limit: 3 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
-    </blockquote>
     
     <div class="bottom-teaser cf">
       <div class="isLeft">
