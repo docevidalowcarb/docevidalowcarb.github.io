@@ -2,6 +2,9 @@
 layout: post-amp
 title: Dieta Low Carb - Cardápio pra secar
 categories:
+  - lowcarb
+  - cardapio
+  - receitas
 date: 2018-12-01 00:00:00
 featured_image: /uploads/veggies-low-carb.jpg
 redirect_from:
