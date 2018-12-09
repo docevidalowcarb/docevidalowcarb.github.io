@@ -36,7 +36,7 @@ A Dieta Low Carb High Fat tem um cardápio com consumo reduzido de carboidratos,
 
 Para aumentar o consumo de gorduras, quando fazemos uma distribuição dos macros nutrientes, como proteína, gorduras e carboidratos, então precisamos diminuir o consumo de carboidratos e até proteínas, para equilibrar essa balança. Mas essa distribuição cada pessoa tem a sua, normalmente depende de fatores como taxa metabólica, peso, idade, etc.
 
-<amp-img width="600" height="300" layout="responsive" src="/uploads/castanhas-low-carb-high-fat.jpg"></amp-img>
+<amp-img width="600" height="300" layout="responsive" src="/uploads/castanhas-low-carb-high-fat.jpg" alt="dieta low carb high fat distribuicao de macros"></amp-img>
 
 > A melhor pessoa para fazer essa análise e distribuição de macros é seu médico e nutricionista. E se você quiser ler mais a respeito desse assunto deixo aqui um [vídeo](https://www.youtube.com/watch?v=vB2EtclQLRA){: target="_blank"} interessante.
 
@@ -50,7 +50,7 @@ Você força seu corpo a buscar energia queimando os pneuzinhos dos quais você 
 
 Na Low Carb High Fat o que é recomendado é abusar de gorduras boas, ou seja aquelas naturais que fazem bem ao organismo. Essas gorduras devem ser de carnes, peixes, óleo de côco, azeites, manteiga, avocado e castanhas, por exemplo, e não as gorduras saturadas e industrializadas, que devem ser evitadas.
 
-Além é claro de fazer todas aquelas substituições e contar com receitinhas fáceis de fazer como o [quiche low carb com farinha de amêndoas](/receitas/2018/12/03/quiche-low-carb-de-bacon-com-alho-poro/), que é super rico e gostoso.
+Além é claro de fazer todas aquelas substituições e contar com receitinhas fáceis de fazer como o [quiche low carb com farinha de amêndoas](/quiche-low-carb-de-bacon-com-alho-poro/), que é super rico e gostoso.
 
 ## Dieta Low Carb High Fat emagrece?
 
