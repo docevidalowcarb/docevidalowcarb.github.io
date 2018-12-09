@@ -87,6 +87,15 @@ layout: default-amp
         </a>
       </section>
     </footer>
+    
+    <blockquote><h3>Leia Também</h3>
+    <ul class="related_posts">
+        {% for post in site.categories limit: 3 %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+    </blockquote>
+    
     <div class="bottom-teaser cf">
       <div class="isLeft">
         <h3 class="index-headline featured"><span>Postado por:</span></h3>
