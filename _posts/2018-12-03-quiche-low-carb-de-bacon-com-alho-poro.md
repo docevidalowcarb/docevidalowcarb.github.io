@@ -55,13 +55,13 @@ Ainda vou gravar um vídeo dessa receita de Quiche Low Carb para meu novo canal 
 
 O Quiche Low Carb que eu preparei foi um delicioso Quiche de Alho Poró com Bacon. Antes mesmo de você começar a fazer eu recomendo muito que você tenha alguma forminha própria para Quiche, ou para tortinhas, aquelas com a base removível, ou então você pode improvisar como eu fiz, mas terá que tomar cuidado na hora de tirar para não quebrar o seu Quiche Low Carb.
 
-<amp-img width="600" height="300" layout="responsive" src="/uploads/quiche-low-carb-forminha.jpg" alt="como preparar quiche de alho poro low carb"></amp-img>
+<amp-img width="600" height="300" layout="responsive" src="/uploads/quiche-low-carb-forminha.jpg" alt="como fazer quiche de alho poro low carb"></amp-img>
 
 A base do Quiche Low Carb é feita somente com Manteiga Ghee, ovo, farinha de amêndoas e farelo de aveia. Se você não tiver a manteiga Ghee pronta, não se preocupa que ela nada mais é do que a manteiga clarificada, ou seja, a manteiga que você retira a lactose e outros componentes deixando somente a gordura. É o mesmo processo também da manteiga de garrafa. Então vamos explicar como fazer sua manteiga Ghee em casa, que é um processo muito simples.
 
 ## Como fazer Manteiga Ghee Caseira
 
-<amp-img width="600" height="300" layout="responsive" src="/uploads/manteiga-ghee-clarificada.jpg" alt="como preparar manteiga ghee com manteiga normal"></amp-img>
+<amp-img width="600" height="300" layout="responsive" src="/uploads/manteiga-ghee-clarificada.jpg" alt="como fazer manteiga ghee com manteiga normal"></amp-img>
 
 Para fazer sua manteiga Ghee caseira é muito simples:
 
