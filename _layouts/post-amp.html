@@ -91,10 +91,10 @@ layout: default-amp
     <h3>Leia Também</h3>
     <ul class="related_posts">
         {% for post in site.categories.lowcarb limit:5 %}
-            {% assign match = false %}
+            {% assign match = true %}
             {% for category in post.categories %}
                 {% if page.categories contains category %}
-                {% assign match = true %}
+                {% assign match = false %}
                 {% endif %}
             {% endfor %}
             {% if match %}
