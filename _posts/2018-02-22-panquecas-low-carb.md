@@ -4,7 +4,9 @@ comments: true
 date: 2018-02-22 00:00:00
 title: '[Receita] Panquecas Low Carb Fáceis de Fazer'
 categories:
-  - Panquecas
+  - panquecas
+  - receitas
+  - lowcarb
 featured_image: /uploads/panqueca-low-carb-de-soja.jpg
 tags: panquecas, low carb, receitas
 recipe:
