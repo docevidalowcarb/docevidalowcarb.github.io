@@ -8,6 +8,7 @@ categories:
   - receitas
   - lowcarb
 featured_image: /uploads/panqueca-low-carb-de-soja.jpg
+image_description: panquecas low carb com fibra de soja sem carboidratos
 tags: panquecas, low carb, receitas
 redirect_from:
   - /panquecas/2018/02/22/panquecas-low-carb/
