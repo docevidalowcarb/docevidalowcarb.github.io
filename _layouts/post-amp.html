@@ -90,7 +90,6 @@ layout: default-amp
     
     <h3>Leia Também</h3>
     <ul class="related_posts">
-        
         {% for post in site.categories limit:5 %}
             {% assign match = false %}
             {% for category in post.categories.lowcarb %}
