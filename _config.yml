@@ -36,7 +36,7 @@ pinterest_username: docelowcarb
 
 paginate: 10
 paginate_path: "/:num/"
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 collections:
   stories:
