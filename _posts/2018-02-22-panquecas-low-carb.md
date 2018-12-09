@@ -7,7 +7,6 @@ categories:
   - panquecas
   - receitas
   - lowcarb
-
 featured_image: /uploads/panqueca-low-carb-de-soja.jpg
 tags: panquecas, low carb, receitas
 redirect_from:
