@@ -32,7 +32,7 @@ Curiosamente, o vinagre de ma&ccedil;&atilde; pode ser um grande aliado na Dieta
 
 O melhor vinagre de ma&ccedil;&atilde; que eu encontrei foi o da marca [Bragg](https://bragg.com/products/acv.html){: target="_blank"}, ele &eacute; org&acirc;nico e talvez um dos mais conhecidos do mercado. Mas sinceramente n&atilde;o sei se ele &eacute; t&atilde;o f&aacute;cil de encontrar no Brasil. Aqui na Irlanda, eu acho ele facilmente em mercados, em lojas de produtos naturais, e at&eacute; mesmo d&aacute; para comprar pela internet, e ele custa em m&eacute;dia uns €6 a garrafa de meio litro, que para meu consumo ela dura em m&eacute;dia uns 2 meses.&nbsp;
 
-<amp-image src="/uploads/vinagre-maca-bragg.jpg"></amp-image>
+<amp-image src="/uploads/vinagre-maca-bragg.jpg" width="600" hight="400" alt="vinagre de maca organico da bragg"></amp-image>
 
 &nbsp;
 
