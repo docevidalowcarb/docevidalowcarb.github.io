@@ -5,6 +5,8 @@ permalink: /vinagre-de-maca-acv/
 categories:
 date: 2018-12-06 00:00:00
 featured_image: /uploads/vinagre-de-maca-acv.jpg
+image_description: alimentos permitidos na dieta low carb
+redirect_from:
 recipe:
   servings:
   prep:
