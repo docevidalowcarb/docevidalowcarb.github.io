@@ -18,7 +18,7 @@ recipe:
   directions_markdown:
 ---
 
-Ol&aacute; amantes da Low Carb! Hoje vamos falar dos **benef&iacute;cios do Vinagre de Ma&ccedil;&atilde;** para sua dieta. Tamb&eacute;m conhecido como ACV (Apple Cider Vinager), o vinagre de ma&ccedil;&atilde; &eacute; um produto natural super fant&aacute;stico para todos os tipos de doen&ccedil;as, mas principalmente para sua dieta low carb e cetog&ecirc;nica. Ele me ajudou muito na minha dieta Low Carb ent&atilde;o ele merece um post inteiro falando sobre os maravilhosos **benef&iacute;cios do ACV**, e minha experi&ecirc;ncia com ele.
+Ol&aacute; amantes da Low Carb! Hoje vamos falar dos **benef&iacute;cios do Vinagre de Ma&ccedil;&atilde;** para sua dieta. Tamb&eacute;m conhecido como ACV (Apple Cider Vinegar), o vinagre de ma&ccedil;&atilde; &eacute; um produto natural super fant&aacute;stico para todos os tipos de doen&ccedil;as, mas principalmente para sua dieta low carb e cetog&ecirc;nica. Ele me ajudou muito na minha dieta Low Carb ent&atilde;o ele merece um post inteiro falando sobre os maravilhosos **benef&iacute;cios do ACV**, e minha experi&ecirc;ncia com ele.
 
 O **vinagre de ma&ccedil;&atilde;** tem a capacidade de acidificar o corpo, porque cont&eacute;m &aacute;cido asc&eacute;tico, que &eacute; seu elemento principal a um pH de 2,5. Ent&atilde;o o ACV ajuda no transporte de minerais, na digest&atilde;o de prote&iacute;nas, na estimula&ccedil;&atilde;o da fun&ccedil;&atilde;o da tire&oacute;ide e tamb&eacute;m na press&atilde;o arterial. O que &eacute; uma ben&ccedil;&atilde;o para quem tem um metabolismo baixo, e ainda sofre com press&atilde;o alta. Que &eacute; o meu caso!
 
