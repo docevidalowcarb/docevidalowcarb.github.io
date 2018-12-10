@@ -6,7 +6,7 @@ categories:
   - dicas
   - lowcarb
   - cetogenica
-date: 2018-12-06 00:00:00
+date: 2018-12-10 00:00:00
 featured_image: /uploads/apple-cider-vinegar-vinagre-de-maca.jpg
 image_description: vinagre de maca na dieta low carb ou cetogenica
 redirect_from:
