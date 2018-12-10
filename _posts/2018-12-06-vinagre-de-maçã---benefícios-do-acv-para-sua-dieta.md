@@ -32,7 +32,7 @@ Curiosamente, o vinagre de ma&ccedil;&atilde; pode ser um grande aliado na Dieta
 
 O melhor vinagre de ma&ccedil;&atilde; que eu encontrei foi o da marca [Bragg](https://bragg.com/products/acv.html){: target="_blank"}, ele &eacute; org&acirc;nico e talvez um dos mais conhecidos do mercado. Mas sinceramente n&atilde;o sei se ele &eacute; t&atilde;o f&aacute;cil de encontrar no Brasil. Aqui na Irlanda, eu acho ele facilmente em mercados, em lojas de produtos naturais, e at&eacute; mesmo d&aacute; para comprar pela internet, e ele custa em m&eacute;dia uns €6 a garrafa de meio litro, que para meu consumo ela dura em m&eacute;dia uns 2 meses.&nbsp;
 
-<amp-img src="/uploads/vinagre-maca-bragg.jpg" width="350" height="350" alt="vinagre de maca organico da bragg"></amp-img>
+<p align="center"><amp-img src="/uploads/vinagre-maca-bragg.jpg" width="350" height="350" alt="vinagre de maca organico da bragg"></amp-img></p>
 
 Al&eacute;m do Bragg, voc&ecirc; pode encontrar muitas outras op&ccedil;&otilde;es no mercado nacional, mas o mais importante &eacute; que voc&ecirc; encontre um que seja **vinagre de ma&ccedil;&atilde; org&acirc;nico** e que tenha a indica&ccedil;&atilde;o que o **vinagre de ma&ccedil;&atilde; org&acirc;nico possui "la madre" ou "the mother"**&nbsp;que &eacute; o que indica que ele realmente &eacute; natural e conserva as propriedades naturais da ma&ccedil;a, al&eacute;m de n&atilde;o ser filtrado.
 
@@ -53,6 +53,7 @@ Vamos ao que interessa sobre os in&uacute;meros benef&iacute;cios do vinagre de 
 9. **Combate a caspa:**&nbsp;como falamos anteriormente, o vinagre de ma&ccedil;&atilde; possui propriedades antibacterianas, e tamb&eacute;m antif&uacute;ngicas, por esse motivo ele ajuda a tratar tratar nosso couro cabeludo, tais como a caspa, descama&ccedil;&otilde;es e at&eacute; mesmo diminui a oleosidade.
 10. **Combate fungos na unha:**&nbsp;pela sua a&ccedil;&atilde;o antif&uacute;ngica, o vinagre de ma&ccedil;&atilde; pode ser um grande aliado para combater os fungos da unha, basta deixar de molho com &aacute;gua por alguns minutos, e repetir pelo menos 3 vezes por semana.
 
+<p align="center"><amp-img src="/uploads/vinagre-maca-acv.jpg" width="350" height="350" alt="vinagre de maca organico beneficios emagrece"></amp-img></p>
 ## Vinagre de Ma&ccedil;&atilde;o Emagrece?&nbsp;
 
 A pergunta que n&atilde;o quer calar, e todos querem saber &eacute; se o vinagre de ma&ccedil;&atilde; emagrece. Eu n&atilde;o encontrei artigos que pudessem comprovar de fato sua efic&aacute;cia na perda de peso, j&aacute; que muitos inclui uma rela&ccedil;&atilde;o de dieta e atividades f&iacute;sicas ao consumo do vinagre de ma&ccedil;&atilde;.
