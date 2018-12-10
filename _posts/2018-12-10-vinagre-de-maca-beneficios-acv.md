@@ -1,6 +1,6 @@
 ---
 layout: post-amp
-title: Vinagre de Maça - Benefícios do ACV para sua Dieta
+title: Vinagre de Maçã - Benefícios do ACV para sua Dieta
 permalink: /vinagre-de-maca-acv/
 categories:
   - dicas
