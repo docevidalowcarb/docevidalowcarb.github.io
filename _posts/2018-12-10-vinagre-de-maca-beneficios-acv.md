@@ -34,19 +34,11 @@ O melhor vinagre de ma&ccedil;&atilde; que eu encontrei foi o da marca [Bragg](h
 
 <amp-image src="/uploads/vinagre-maca-bragg.jpg" width="600" hight="400" alt="vinagre de maca organico da bragg"></amp-image>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 Al&eacute;m do Bragg, voc&ecirc; pode encontrar muitas outras op&ccedil;&otilde;es no mercado nacional, mas o mais importante &eacute; que voc&ecirc; encontre um que seja **vinagre de ma&ccedil;&atilde; org&acirc;nico** e que tenha a indica&ccedil;&atilde;o que o **vinagre de ma&ccedil;&atilde; org&acirc;nico possui****\*\*"l**a madre" ou "the mother"\*\* que &eacute; o que indica que ele realmente &eacute; natural e conserva as propriedades naturais da ma&ccedil;a, al&eacute;m de n&atilde;o ser filtrado.
 
 &nbsp;
 
 No Brasil eu sei que a Castelo estava com uma linha de vinagres org&acirc;nicos e um deles era o **Vinagre de Ma&ccedil;&atilde; 100% natural Leve Vita com "la madre"**. Eu cheguei a experimentar esse vinagre em Abril desse ano e me pareceu uma op&ccedil;&atilde;o acess&iacute;vel, pois deve ser encontrado mais facilmente nos mercados a um pre&ccedil;o razo&aacute;vel.
-
-&nbsp;
 
 ## Benef&iacute;cios do Vinagre de Ma&ccedil;&atilde;
 
@@ -63,8 +55,6 @@ Vamos ao que interessa sobre os in&uacute;meros benef&iacute;cios do vinagre de 
 9. **Combate a caspa:**&nbsp;como falamos anteriormente, o vinagre de ma&ccedil;&atilde; possui propriedades antibacterianas, e tamb&eacute;m antif&uacute;ngicas, por esse motivo ele ajuda a tratar tratar nosso couro cabeludo, tais como a caspa, descama&ccedil;&otilde;es e at&eacute; mesmo diminui a oleosidade.
 10. **Combate fungos na unha:**&nbsp;pela sua a&ccedil;&atilde;o antif&uacute;ngica, o vinagre de ma&ccedil;&atilde; pode ser um grande aliado para combater os fungos da unha, basta deixar de molho com &aacute;gua por alguns minutos, e repetir pelo menos 3 vezes por semana.
 
-&nbsp;
-
 ## Vinagre de Ma&ccedil;&atilde;o Emagrece?&nbsp;
 
 A pergunta que n&atilde;o quer calar, e todos querem saber &eacute; se o vinagre de ma&ccedil;&atilde; emagrece. Eu n&atilde;o encontrei artigos que pudessem comprovar de fato sua efic&aacute;cia na perda de peso, j&aacute; que muitos inclui uma rela&ccedil;&atilde;o de dieta e atividades f&iacute;sicas ao consumo do vinagre de ma&ccedil;&atilde;.
@@ -76,9 +66,3 @@ Espero que tenha gostados desse post!
 E se voc&ecirc; tiver mais dicas sobre o Vinagre de ma&ccedil;a, n&atilde;o deixe de comentar aqui embaixo :)
 
 At&eacute; a pr&oacute;xima!
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
