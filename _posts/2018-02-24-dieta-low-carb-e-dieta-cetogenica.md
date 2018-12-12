@@ -3,6 +3,7 @@ layout: post-amp
 published: true
 date: 2018-02-24 00:00:00
 title: Dieta Low Carb e Dieta Cetogênica
+permalink: /dieta-low-carb-e-dieta-cetogenica/
 categories:
   - lowcarb
   - cetogenica
@@ -17,6 +18,20 @@ Oi Pessoal! Hoje vou falar um pouquinho sobre a&nbsp;**Dieta Low Carb e Dieta Ce
 
 <amp-img width="600" height="300" layout="responsive" src="/uploads/versions/dieta-low-cabr-estilo-vida-saudavel-1---x----1560-1049x---.jpg"></amp-img>
 
+<amp-instagram data-shortcode="BjclEYHFhEf"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
+<amp-instagram data-shortcode="Bj5w-GmF594"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
 ## Dieta Low carb n&atilde;o &eacute; Dieta Cetog&ecirc;nica
 
 Quando falamos sobre dieta low carb nem sempre estamos falando em uma dieta cetog&ecirc;nica, mas sempre que falamos em dieta cetog&ecirc;nica estamos falando de uma dieta low carb. Ficou confuso? Calma, vou tentar explicar o que tenho estudado sobre a **dieta cetog&ecirc;nica** e apresentar algumas fontes importantes para falar sobre esse assunto.
@@ -29,6 +44,20 @@ Na [literatura cient&iacute;fica](http://www.nutritionjrnl.com/article/S0899-900
 
 O que eu mais tenho falado para colegas que acompanham dietas low carb &eacute; que a dieta cetog&ecirc;nica &eacute; um pouco mais restritiva do que outras dietas Low Carb, mas ainda assim n&atilde;o deixa de ser uma dieta de escolhas e de estilo de vida. Escolhas porque voc&ecirc; quem decide se quer comer ovos e bacon todos os dias, ou se prefere comer pratos verdes com legumes e verguras com baixo valor de carboidratos. Eu escolho sempre o equil&iacute;brio, e dessa forma a dieta cetog&ecirc;nica, apesar de restritiva tamb&eacute;m tem sido prazerosa e muito gostosa para mim.
 
+<amp-instagram data-shortcode="BfoyZe3HSD1"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
+<amp-instagram data-shortcode="BisHNdQFzuD"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
 Isso de forma alguma significa que uma dieta cetog&ecirc;nica &eacute; melhor do que dietas low carb. Na verdade outras dietas low carb podem ser at&eacute; mais completas em valores nutricionais, mas isso sempre depender&aacute; do consumo de alimentos saud&aacute;veis, ou seja, tamb&eacute;m depender&aacute; de boas escolhas. Mas em rela&ccedil;&atilde;o a perda de peso, uma [dieta cetog&ecirc;nica n&atilde;o &eacute; condi&ccedil;&atilde;o necess&aacute;ria para esse objetivo](http://www.lowcarb-paleo.com.br/2017/10/cetose.html), pois uma dieta low carb com boas escolhas por alimentos saud&aacute;veis tamb&eacute;m ter&aacute; a perda de peso como consequ&ecirc;ncia.
 
 <amp-img width="600" height="300" layout="responsive" src="/uploads/versions/prato-low-carb-cetogenica-verduras-legumes---x----1560-870x---.jpg"></amp-img>
@@ -40,6 +69,21 @@ Quando eu falo que dieta low carb &eacute; estilo de vida &eacute; porque &eacut
 Quando me perguntam se eu entrei nessa Dieta Low Carb s&oacute; para obter bons resultados na perda de peso, minha resposta &eacute; objetiva: “n&atilde;o quero morrer antes dos 50”, ent&atilde;o obviamente quero uma mudan&ccedil;a de vida a longo prazo, e n&atilde;o apenas perder peso para entrar em um vestido de festa. Quero uma mudan&ccedil;a de dentro para fora, que a perda de peso seja apenas uma consequ&ecirc;ncia de uma vida mais saud&aacute;vel e que essa vida saud&aacute;vel seja resultado de boas escolhas.
 
 <amp-img width="600" height="300" layout="responsive" src="/uploads/versions/20180219-130847-1---x----1560-1170x---.jpg"></amp-img>
+
+<amp-instagram data-shortcode="BiubNgTFcVn"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
+<amp-instagram data-shortcode="BjLPd7rlxqA"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
 
 Vou aproveitar para deixar nesse post um v&iacute;deo muito legal do Dr. Berg, falando sobre os efeitos de longo prazo de uma dieta Low carb. Nesse v&iacute;deo ele fala sobre a necessidade dos carboidratos provenientes de vegetais, n&atilde;o porque voc&ecirc; precisa desses carboidratos, mas porque voc&ecirc; precisa das vitaminas e minerais que esses alimentos oferecem. Ele tamb&eacute;m esclarece algumas d&uacute;vidas em rela&ccedil;&atilde;o a tire&oacute;ide na dieta low carb, e os benef&iacute;cios de se manter em uma dieta low carb.
 
