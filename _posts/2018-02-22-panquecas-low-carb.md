@@ -76,4 +76,18 @@ Ou você pode simplesmente usar a receita para fazer sua panqueca recheada com c
 
 Espero que você goste dessa receita low carb, pois eu sempre faço em casa e todo mundo adora! &lt;3
 
+<amp-instagram data-shortcode="BjsreSDFZbi"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
+<amp-instagram data-shortcode="BczkzgKHFa-"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
 ## Como Fazer Panqueca Low Carb
