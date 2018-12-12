@@ -68,8 +68,6 @@ Quando eu falo que dieta low carb &eacute; estilo de vida &eacute; porque &eacut
 
 Quando me perguntam se eu entrei nessa Dieta Low Carb s&oacute; para obter bons resultados na perda de peso, minha resposta &eacute; objetiva: “n&atilde;o quero morrer antes dos 50”, ent&atilde;o obviamente quero uma mudan&ccedil;a de vida a longo prazo, e n&atilde;o apenas perder peso para entrar em um vestido de festa. Quero uma mudan&ccedil;a de dentro para fora, que a perda de peso seja apenas uma consequ&ecirc;ncia de uma vida mais saud&aacute;vel e que essa vida saud&aacute;vel seja resultado de boas escolhas.
 
-<amp-img width="600" height="300" layout="responsive" src="/uploads/versions/20180219-130847-1---x----1560-1170x---.jpg"></amp-img>
-
 <amp-instagram data-shortcode="BiubNgTFcVn"
   data-captioned
   width="1"
