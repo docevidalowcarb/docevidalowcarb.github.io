@@ -62,6 +62,13 @@ Para fazer as panquecas low carb eu costumo usar o Soya Protein Powder da Pulsin
   layout="responsive">
 </amp-instagram>
 
+<amp-instagram data-shortcode="BmQgKaVBrzc"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
 ## Ideias com Panquecas Low Carb
 
 Você pode fazer essa receita com panquecas pequenas, médias ou grandes. Eu adoro fazer grande para comer como wrap recheado com salada e ovo :)
