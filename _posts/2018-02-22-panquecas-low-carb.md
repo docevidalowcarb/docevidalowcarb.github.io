@@ -55,6 +55,13 @@ Para fazer as panquecas low carb eu costumo usar o Soya Protein Powder da Pulsin
 
 > **Dica:** Existem outros produtos com proteína isolada, como Whey Protein (leite), Pea Protein (ervilha), se você optar por qualquer um desses para usar nas suas receitas, é importante ficar de olho no **valor nutricional do produto** que você escolher, porque muitos deles possuem adição de açúcares. Mas tanto a proteína de soja quanto a fibra de soja tem menos de 1g de carboidrato para cada colher de sopa e são bem mais acessíveis.
 
+<amp-instagram data-shortcode="BkdZtdWlBus"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
 ## Ideias com Panquecas Low Carb
 
 Você pode fazer essa receita com panquecas pequenas, médias ou grandes. Eu adoro fazer grande para comer como wrap recheado com salada e ovo :)
