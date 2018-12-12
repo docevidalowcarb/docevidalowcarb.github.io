@@ -1,6 +1,7 @@
 ---
 layout: post-amp
 title: 'Dieta Low Carb: Alimentos Permitidos'
+permalink: /dieta-low-carb-alimentos-permitidos/
 categories:
   - lowcarb
   - dicas
