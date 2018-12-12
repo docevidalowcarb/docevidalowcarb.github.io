@@ -67,7 +67,7 @@ Vamos ao que interessa sobre os in&uacute;meros benef&iacute;cios do vinagre de 
 9. **Combate a caspa:**&nbsp;como falamos anteriormente, o vinagre de ma&ccedil;&atilde; possui propriedades antibacterianas, e tamb&eacute;m antif&uacute;ngicas, por esse motivo ele ajuda a tratar tratar nosso couro cabeludo, tais como a caspa, descama&ccedil;&otilde;es e at&eacute; mesmo diminui a oleosidade.
 10. **Combate fungos na unha:**&nbsp;pela sua a&ccedil;&atilde;o antif&uacute;ngica, o vinagre de ma&ccedil;&atilde; pode ser um grande aliado para combater os fungos da unha, basta deixar de molho com &aacute;gua por alguns minutos, e repetir pelo menos 3 vezes por semana.
 
-<p align="center"><amp-img src="/uploads/vinagre-de-maca-acv.jpg" width="600" height="400" alt="vinagre de maca organico beneficios emagrece"></amp-img></p>
+<p align="center"><amp-img src="/uploads/vinagre-de-maca-acv.jpg" layout="responsive" width="600" height="400" alt="vinagre de maca organico beneficios emagrece"></amp-img></p>
 ## Vinagre de Ma&ccedil;&atilde;o Emagrece?&nbsp;
 
 A pergunta que n&atilde;o quer calar, e todos querem saber &eacute; se o vinagre de ma&ccedil;&atilde; emagrece. Eu n&atilde;o encontrei artigos que pudessem comprovar de fato sua efic&aacute;cia na perda de peso, j&aacute; que muitos inclui uma rela&ccedil;&atilde;o de dieta e atividades f&iacute;sicas ao consumo do vinagre de ma&ccedil;&atilde;.
