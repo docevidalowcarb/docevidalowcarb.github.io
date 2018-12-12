@@ -43,6 +43,13 @@ Al&eacute;m do Bragg, voc&ecirc; pode encontrar muitas outras op&ccedil;&otilde;
   layout="responsive">
 </amp-instagram>
 
+<amp-instagram data-shortcode="Bed2a59nwhA"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
 No Brasil eu sei que a Castelo estava com uma linha de vinagres org&acirc;nicos e um deles era o **Vinagre de Ma&ccedil;&atilde; 100% natural Leve Vita com "la madre"**. Eu cheguei a experimentar esse vinagre em Abril desse ano e me pareceu uma op&ccedil;&atilde;o acess&iacute;vel, pois deve ser encontrado mais facilmente nos mercados a um pre&ccedil;o razo&aacute;vel.
 
 ## Benef&iacute;cios do Vinagre de Ma&ccedil;&atilde;
