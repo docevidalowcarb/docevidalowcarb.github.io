@@ -36,6 +36,13 @@ O melhor vinagre de ma&ccedil;&atilde; que eu encontrei foi o da marca [Bragg](h
 
 Al&eacute;m do Bragg, voc&ecirc; pode encontrar muitas outras op&ccedil;&otilde;es no mercado nacional, mas o mais importante &eacute; que voc&ecirc; encontre um que seja **vinagre de ma&ccedil;&atilde; org&acirc;nico** e que tenha a indica&ccedil;&atilde;o que o **vinagre de ma&ccedil;&atilde; org&acirc;nico possui "la madre" ou "the mother"**&nbsp;que &eacute; o que indica que ele realmente &eacute; natural e conserva as propriedades naturais da ma&ccedil;a, al&eacute;m de n&atilde;o ser filtrado.
 
+<amp-instagram data-shortcode="Bi0PAMclXbE"
+  data-captioned
+  width="1"
+  height="1"
+  layout="responsive">
+</amp-instagram>
+
 No Brasil eu sei que a Castelo estava com uma linha de vinagres org&acirc;nicos e um deles era o **Vinagre de Ma&ccedil;&atilde; 100% natural Leve Vita com "la madre"**. Eu cheguei a experimentar esse vinagre em Abril desse ano e me pareceu uma op&ccedil;&atilde;o acess&iacute;vel, pois deve ser encontrado mais facilmente nos mercados a um pre&ccedil;o razo&aacute;vel.
 
 ## Benef&iacute;cios do Vinagre de Ma&ccedil;&atilde;
