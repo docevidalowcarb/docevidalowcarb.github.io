@@ -8,7 +8,7 @@ categories:
   - cetogenica
 date: 2018-12-10 00:00:00
 featured_image: https://images.unsplash.com/photo-1540869680834-5ecb855f2076?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80
-image_description: vinagre de maca na dieta low carb ou cetogenica
+image_description: vinagre de maca na dieta low carb ou cetogenica - Photo by rawpixel on Unsplash
 redirect_from:
 recipe:
   servings:
