@@ -50,7 +50,7 @@ compress_images:
   
 mini_magick:
   thumbnail:
-    source: uploads/
+    source: uploads
     destination: uploads/thumbs
     resize: "60x60"
 
