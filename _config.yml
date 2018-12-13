@@ -47,8 +47,8 @@ compress_images:
   
 mini_magick:
   thumbnail:
-    source: "uploads/"
-    destination: "uploads/thumbs"
+    source: uploads/
+    destination: uploads/thumbs
     resize: "60x60"
 
 sass:
