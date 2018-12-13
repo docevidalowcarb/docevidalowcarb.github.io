@@ -10,5 +10,4 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jekyll-compose'
   gem 'classifier-reborn'
-  gem 'mini_magick', '~> 4.9', '>= 4.9.2'
 end
