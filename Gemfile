@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jekyll-compose'
   gem 'classifier-reborn'
+  gem 'jekyll-minimagick'
 end
