@@ -64,7 +64,7 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-compose
-  - jekyll-minimagick
+  - mini_magick
 
 exclude:
   - Gemfile
