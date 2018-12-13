@@ -45,6 +45,12 @@ collections:
 compress_images:
   images_path: "images/**/*.{gif,png,jpg,jpeg,svg}"
   
+mini_magick:
+	thumbnail:
+		source: uploads/
+		destination: uploads/thumbs
+		resize: "60x60"
+  
 sass:
   style: compressed
   
@@ -55,6 +61,7 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-compose
+  - jekyll-minimagick
 
 exclude:
   - Gemfile
